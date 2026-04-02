@@ -1,0 +1,603 @@
+HS_Code,Commodity_Name,Country,Year,Nominal_Value_USD,Category_Type
+2504,Natural Graphite,Argentina,2021,5750,Ore / Raw
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Argentina,2015,19740,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Argentina,2025,61501,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Argentina,2015,2435,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Argentina,2016,134273,Compound
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Argentina,2015,109773165,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Argentina,2016,84205662,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Argentina,2017,103585055,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Argentina,2018,153030143,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Argentina,2019,134665304,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Argentina,2020,93565194,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Argentina,2021,8039317,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Argentina,2022,12964245,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Argentina,2023,26208646,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Argentina,2024,28243886,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Argentina,2025,40330466,Refined / Articles
+7404,Copper Waste And Scrap,Argentina,2024,2957,Refined / Articles
+7408,Copper Wire,Argentina,2021,3418,Refined / Articles
+7901,"Zinc, Unwrought",Argentina,2020,33220,Refined / Articles
+7901,"Zinc, Unwrought",Argentina,2024,143803,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Argentina,2015,307402,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Argentina,2021,2885,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Argentina,2023,2177,Refined / Articles
+2615,"Niobium, Tantalum, Vanadium & Zirconium Ore & Conc",Bolivia,2015,4913,Ore / Raw
+2820,Manganese Oxides,Bolivia,2019,41742,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Bolivia,2015,12516044,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Bolivia,2016,5652240,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Bolivia,2017,8626280,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Bolivia,2018,9242482,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Bolivia,2019,6903479,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Bolivia,2020,4678302,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Bolivia,2021,7544202,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Bolivia,2022,13199018,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Bolivia,2023,11392397,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Bolivia,2024,16954078,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Bolivia,2025,62220208,Compound
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Bolivia,2015,85857936,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Bolivia,2016,92661982,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Bolivia,2017,72507189,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Bolivia,2018,78029704,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Bolivia,2019,89881497,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Bolivia,2020,37681487,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Bolivia,2021,12764287,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Bolivia,2022,4948964,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Bolivia,2023,14398363,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Bolivia,2024,1312962,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Bolivia,2025,220414,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Bolivia,2015,8659567,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Bolivia,2016,8684794,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Bolivia,2017,9479566,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Bolivia,2018,9638446,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Bolivia,2019,9108173,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Bolivia,2020,6775720,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Bolivia,2021,6543859,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Bolivia,2024,2019146,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Bolivia,2025,3642642,Refined / Articles
+7404,Copper Waste And Scrap,Bolivia,2016,234394,Refined / Articles
+7404,Copper Waste And Scrap,Bolivia,2017,138771,Refined / Articles
+7404,Copper Waste And Scrap,Bolivia,2018,333369,Refined / Articles
+7404,Copper Waste And Scrap,Bolivia,2019,998218,Refined / Articles
+7404,Copper Waste And Scrap,Bolivia,2020,317594,Refined / Articles
+7404,Copper Waste And Scrap,Bolivia,2021,2432025,Refined / Articles
+7404,Copper Waste And Scrap,Bolivia,2022,758962,Refined / Articles
+7404,Copper Waste And Scrap,Bolivia,2023,509428,Refined / Articles
+7404,Copper Waste And Scrap,Bolivia,2024,5459828,Refined / Articles
+7404,Copper Waste And Scrap,Bolivia,2025,548644,Refined / Articles
+8001,"Tin, Unwrought",Bolivia,2015,97033492,Refined / Articles
+8001,"Tin, Unwrought",Bolivia,2016,106525775,Refined / Articles
+8001,"Tin, Unwrought",Bolivia,2017,132839918,Refined / Articles
+8001,"Tin, Unwrought",Bolivia,2018,129650692,Refined / Articles
+8001,"Tin, Unwrought",Bolivia,2019,115119766,Refined / Articles
+8001,"Tin, Unwrought",Bolivia,2020,86802567,Refined / Articles
+8001,"Tin, Unwrought",Bolivia,2021,192413558,Refined / Articles
+8001,"Tin, Unwrought",Bolivia,2022,372514820,Refined / Articles
+8001,"Tin, Unwrought",Bolivia,2023,198732824,Refined / Articles
+8001,"Tin, Unwrought",Bolivia,2024,261859190,Refined / Articles
+8001,"Tin, Unwrought",Bolivia,2025,242570042,Refined / Articles
+2504,Natural Graphite,Brazil,2015,9941921,Ore / Raw
+2504,Natural Graphite,Brazil,2016,7426485,Ore / Raw
+2504,Natural Graphite,Brazil,2017,7601671,Ore / Raw
+2504,Natural Graphite,Brazil,2018,6469010,Ore / Raw
+2504,Natural Graphite,Brazil,2019,5006893,Ore / Raw
+2504,Natural Graphite,Brazil,2020,5464157,Ore / Raw
+2504,Natural Graphite,Brazil,2021,5956447,Ore / Raw
+2504,Natural Graphite,Brazil,2022,4590114,Ore / Raw
+2504,Natural Graphite,Brazil,2023,4801681,Ore / Raw
+2504,Natural Graphite,Brazil,2024,4474336,Ore / Raw
+2504,Natural Graphite,Brazil,2025,5713293,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Brazil,2015,392130,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Brazil,2016,696840,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Brazil,2017,924735,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Brazil,2018,950971,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Brazil,2019,542578,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Brazil,2020,611860,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Brazil,2021,617806,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Brazil,2022,1153901,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Brazil,2023,1029610,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Brazil,2024,838321,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Brazil,2025,138421,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,Brazil,2015,2350796,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,Brazil,2016,275952,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,Brazil,2017,411706,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,Brazil,2018,2543726,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,Brazil,2019,4637411,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,Brazil,2020,327632,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,Brazil,2021,135000,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,Brazil,2022,136549,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,Brazil,2023,242855,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,Brazil,2024,47408,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,Brazil,2025,544350,Ore / Raw
+2604,Nickel Ores And Concentrates,Brazil,2015,8693,Ore / Raw
+2604,Nickel Ores And Concentrates,Brazil,2023,126293,Ore / Raw
+2609,Tin Ores And Concentrates,Brazil,2018,156000,Ore / Raw
+2615,"Niobium, Tantalum, Vanadium & Zirconium Ore & Conc",Brazil,2015,20167502,Ore / Raw
+2615,"Niobium, Tantalum, Vanadium & Zirconium Ore & Conc",Brazil,2016,26753696,Ore / Raw
+2615,"Niobium, Tantalum, Vanadium & Zirconium Ore & Conc",Brazil,2017,3867674,Ore / Raw
+2615,"Niobium, Tantalum, Vanadium & Zirconium Ore & Conc",Brazil,2019,26744,Ore / Raw
+2817,Zinc Oxide And Zinc Peroxide,Brazil,2018,325187,Compound
+2817,Zinc Oxide And Zinc Peroxide,Brazil,2020,28120,Compound
+2817,Zinc Oxide And Zinc Peroxide,Brazil,2021,9065,Compound
+2817,Zinc Oxide And Zinc Peroxide,Brazil,2022,49050,Compound
+2817,Zinc Oxide And Zinc Peroxide,Brazil,2023,98400,Compound
+2817,Zinc Oxide And Zinc Peroxide,Brazil,2024,35429,Compound
+2820,Manganese Oxides,Brazil,2015,663284,Compound
+2820,Manganese Oxides,Brazil,2016,1708706,Compound
+2820,Manganese Oxides,Brazil,2017,1285589,Compound
+2820,Manganese Oxides,Brazil,2018,1960025,Compound
+2820,Manganese Oxides,Brazil,2019,2923888,Compound
+2820,Manganese Oxides,Brazil,2020,2632829,Compound
+2820,Manganese Oxides,Brazil,2021,2422909,Compound
+2820,Manganese Oxides,Brazil,2022,343724,Compound
+2820,Manganese Oxides,Brazil,2023,1698104,Compound
+2820,Manganese Oxides,Brazil,2024,1014623,Compound
+2820,Manganese Oxides,Brazil,2025,853126,Compound
+2822,Cobalt Oxide & Hydroxide; Commercial Cobalt Oxides,Brazil,2018,376380,Compound
+2822,Cobalt Oxide & Hydroxide; Commercial Cobalt Oxides,Brazil,2021,1344990,Compound
+2822,Cobalt Oxide & Hydroxide; Commercial Cobalt Oxides,Brazil,2022,157200,Compound
+2824,Lead Oxides; Red Lead And Orange Lead,Brazil,2015,176291,Compound
+2824,Lead Oxides; Red Lead And Orange Lead,Brazil,2016,34342,Compound
+2824,Lead Oxides; Red Lead And Orange Lead,Brazil,2022,348808,Compound
+2824,Lead Oxides; Red Lead And Orange Lead,Brazil,2023,282396,Compound
+2824,Lead Oxides; Red Lead And Orange Lead,Brazil,2024,296135,Compound
+2824,Lead Oxides; Red Lead And Orange Lead,Brazil,2025,238969,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Brazil,2015,30914877,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Brazil,2016,27689284,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Brazil,2017,36461092,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Brazil,2018,129471779,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Brazil,2019,89526235,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Brazil,2020,35625656,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Brazil,2021,48643154,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Brazil,2022,63064148,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Brazil,2023,76423775,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Brazil,2024,65582017,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Brazil,2025,40897462,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Brazil,2016,10332,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Brazil,2017,99400,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Brazil,2018,279000,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Brazil,2019,2084,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Brazil,2020,335888,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Brazil,2021,975121,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Brazil,2022,1401143,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Brazil,2023,1916963,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Brazil,2024,1665165,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Brazil,2025,488287,Compound
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Brazil,2015,1376018,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Brazil,2016,1331944,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Brazil,2017,1389064,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Brazil,2018,755231,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Brazil,2019,1366062,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Brazil,2020,1184373,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Brazil,2021,1937679,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Brazil,2022,979061,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Brazil,2023,1499556,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Brazil,2024,1293840,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Brazil,2025,2891765,Refined / Articles
+7401,Copper Mattes; Cement Copper (precipitated Copper),Brazil,2019,69775,Refined / Articles
+7402,Unrefnd Cppr; Cppr Anods F Elctroltc Refining,Brazil,2022,8240,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Brazil,2016,4175589,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Brazil,2017,21114433,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Brazil,2018,2815538,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Brazil,2019,363370,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Brazil,2020,40217,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Brazil,2021,49041633,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Brazil,2022,318980,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Brazil,2023,73947,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Brazil,2024,45312,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Brazil,2025,91079,Refined / Articles
+7404,Copper Waste And Scrap,Brazil,2015,2943479,Refined / Articles
+7404,Copper Waste And Scrap,Brazil,2016,1177406,Refined / Articles
+7404,Copper Waste And Scrap,Brazil,2017,737333,Refined / Articles
+7404,Copper Waste And Scrap,Brazil,2018,2061372,Refined / Articles
+7404,Copper Waste And Scrap,Brazil,2019,1477380,Refined / Articles
+7404,Copper Waste And Scrap,Brazil,2020,491951,Refined / Articles
+7404,Copper Waste And Scrap,Brazil,2021,483986,Refined / Articles
+7404,Copper Waste And Scrap,Brazil,2022,892500,Refined / Articles
+7404,Copper Waste And Scrap,Brazil,2023,1877407,Refined / Articles
+7404,Copper Waste And Scrap,Brazil,2024,269439,Refined / Articles
+7404,Copper Waste And Scrap,Brazil,2025,68726,Refined / Articles
+7408,Copper Wire,Brazil,2015,59904,Refined / Articles
+7408,Copper Wire,Brazil,2016,335299,Refined / Articles
+7408,Copper Wire,Brazil,2017,54933,Refined / Articles
+7408,Copper Wire,Brazil,2018,995323,Refined / Articles
+7408,Copper Wire,Brazil,2019,547460,Refined / Articles
+7408,Copper Wire,Brazil,2020,1475917,Refined / Articles
+7408,Copper Wire,Brazil,2021,1112116,Refined / Articles
+7408,Copper Wire,Brazil,2022,1101040,Refined / Articles
+7408,Copper Wire,Brazil,2023,372637,Refined / Articles
+7408,Copper Wire,Brazil,2024,1317677,Refined / Articles
+7408,Copper Wire,Brazil,2025,1225097,Refined / Articles
+7502,"Nickle, Unwrought",Brazil,2015,83172363,Refined / Articles
+7502,"Nickle, Unwrought",Brazil,2016,24741673,Refined / Articles
+7502,"Nickle, Unwrought",Brazil,2017,20014689,Refined / Articles
+7502,"Nickle, Unwrought",Brazil,2018,14087274,Refined / Articles
+7502,"Nickle, Unwrought",Brazil,2019,2053068,Refined / Articles
+7502,"Nickle, Unwrought",Brazil,2021,14021150,Refined / Articles
+7502,"Nickle, Unwrought",Brazil,2022,4284849,Refined / Articles
+7502,"Nickle, Unwrought",Brazil,2023,25596790,Refined / Articles
+7502,"Nickle, Unwrought",Brazil,2024,28789,Refined / Articles
+7502,"Nickle, Unwrought",Brazil,2025,8623492,Refined / Articles
+7901,"Zinc, Unwrought",Brazil,2018,1577745,Refined / Articles
+7901,"Zinc, Unwrought",Brazil,2019,28309776,Refined / Articles
+7901,"Zinc, Unwrought",Brazil,2020,46086294,Refined / Articles
+7901,"Zinc, Unwrought",Brazil,2021,1040315,Refined / Articles
+7901,"Zinc, Unwrought",Brazil,2023,90638272,Refined / Articles
+7901,"Zinc, Unwrought",Brazil,2024,74111596,Refined / Articles
+7901,"Zinc, Unwrought",Brazil,2025,878819,Refined / Articles
+8001,"Tin, Unwrought",Brazil,2015,49579221,Refined / Articles
+8001,"Tin, Unwrought",Brazil,2016,38049436,Refined / Articles
+8001,"Tin, Unwrought",Brazil,2017,36141322,Refined / Articles
+8001,"Tin, Unwrought",Brazil,2018,56924140,Refined / Articles
+8001,"Tin, Unwrought",Brazil,2019,58458444,Refined / Articles
+8001,"Tin, Unwrought",Brazil,2020,52958210,Refined / Articles
+8001,"Tin, Unwrought",Brazil,2021,105098385,Refined / Articles
+8001,"Tin, Unwrought",Brazil,2022,147892488,Refined / Articles
+8001,"Tin, Unwrought",Brazil,2023,75934251,Refined / Articles
+8001,"Tin, Unwrought",Brazil,2024,71661371,Refined / Articles
+8001,"Tin, Unwrought",Brazil,2025,43184778,Refined / Articles
+8002,Tin Waste And Scrap,Brazil,2018,90193,Refined / Articles
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",Brazil,2015,5782350,Refined / Articles
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",Brazil,2016,423746,Refined / Articles
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",Brazil,2017,1836332,Refined / Articles
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",Brazil,2018,251798,Refined / Articles
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",Brazil,2019,735644,Refined / Articles
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",Brazil,2020,6446,Refined / Articles
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",Brazil,2021,6656,Refined / Articles
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",Brazil,2024,34138,Refined / Articles
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",Brazil,2025,42445,Refined / Articles
+8111,"Manganese And Artcles Thereof, Inc Waste And Scrap",Brazil,2025,669184,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Brazil,2015,39743564,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Brazil,2016,53634967,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Brazil,2017,53402888,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Brazil,2018,68371978,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Brazil,2019,61681913,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Brazil,2020,32781886,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Brazil,2021,40043684,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Brazil,2022,79508723,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Brazil,2023,88979291,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Brazil,2024,98531699,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Brazil,2025,65810716,Refined / Articles
+2603,Copper Ores And Concentrates,Chile,2025,30000,Ore / Raw
+2616,Precious Metal Ores And Concentrates,Chile,2025,2794,Ore / Raw
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Chile,2015,19242435,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Chile,2016,34219391,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Chile,2017,35086195,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Chile,2018,59530055,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Chile,2019,51726774,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Chile,2020,48627378,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Chile,2021,86488578,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Chile,2022,117169573,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Chile,2023,216151619,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Chile,2024,125944339,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Chile,2025,67688339,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Chile,2015,5567174,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Chile,2016,13447613,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Chile,2017,17786916,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Chile,2018,15141104,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Chile,2019,19422996,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Chile,2020,3333606,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Chile,2021,23215330,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Chile,2022,23209753,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Chile,2023,41580163,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Chile,2024,31047788,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Chile,2025,19251043,Compound
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Chile,2016,54513090,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Chile,2017,174339085,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Chile,2018,173726179,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Chile,2019,136032842,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Chile,2020,158051532,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Chile,2021,224685115,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Chile,2022,204986482,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Chile,2023,185197486,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Chile,2024,249501234,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Chile,2025,213030176,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Chile,2015,1915675948,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Chile,2016,1668638735,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Chile,2017,3002728546,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Chile,2018,2992780255,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Chile,2019,2558402873,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Chile,2020,2503743427,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Chile,2021,5651456655,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Chile,2022,4226131709,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Chile,2023,4584313629,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Chile,2024,6044245096,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Chile,2025,8883318659,Refined / Articles
+7404,Copper Waste And Scrap,Chile,2015,1660019,Refined / Articles
+7404,Copper Waste And Scrap,Chile,2016,485550,Refined / Articles
+7404,Copper Waste And Scrap,Chile,2017,1051701,Refined / Articles
+7404,Copper Waste And Scrap,Chile,2018,1643281,Refined / Articles
+7404,Copper Waste And Scrap,Chile,2019,7295643,Refined / Articles
+7404,Copper Waste And Scrap,Chile,2020,757570,Refined / Articles
+7404,Copper Waste And Scrap,Chile,2021,704887,Refined / Articles
+7404,Copper Waste And Scrap,Chile,2022,285433,Refined / Articles
+7404,Copper Waste And Scrap,Chile,2023,123800,Refined / Articles
+7404,Copper Waste And Scrap,Chile,2024,779236,Refined / Articles
+7404,Copper Waste And Scrap,Chile,2025,253900,Refined / Articles
+7408,Copper Wire,Chile,2015,3063006,Refined / Articles
+7408,Copper Wire,Chile,2016,727894,Refined / Articles
+7408,Copper Wire,Chile,2017,6304967,Refined / Articles
+7408,Copper Wire,Chile,2018,20959,Refined / Articles
+7408,Copper Wire,Chile,2021,1046550,Refined / Articles
+7408,Copper Wire,Chile,2022,1069184,Refined / Articles
+7408,Copper Wire,Chile,2023,51166310,Refined / Articles
+7408,Copper Wire,Chile,2024,72134318,Refined / Articles
+7408,Copper Wire,Chile,2025,44481868,Refined / Articles
+8001,"Tin, Unwrought",Chile,2019,1183652,Refined / Articles
+8001,"Tin, Unwrought",Chile,2020,777613,Refined / Articles
+8001,"Tin, Unwrought",Chile,2021,9599879,Refined / Articles
+8001,"Tin, Unwrought",Chile,2022,1718328,Refined / Articles
+8001,"Tin, Unwrought",Chile,2023,1221200,Refined / Articles
+8001,"Tin, Unwrought",Chile,2024,3869571,Refined / Articles
+8001,"Tin, Unwrought",Chile,2025,980831,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Chile,2015,55743904,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Chile,2016,52240578,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Chile,2017,57241927,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Chile,2018,55742577,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Chile,2019,50899822,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Chile,2020,28194340,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Chile,2021,25310826,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Chile,2022,8593082,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Chile,2023,35226290,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Chile,2024,18445606,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Chile,2025,52785671,Refined / Articles
+2504,Natural Graphite,Colombia,2023,14875,Ore / Raw
+2504,Natural Graphite,Colombia,2024,14876,Ore / Raw
+2504,Natural Graphite,Colombia,2025,61267,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Colombia,2018,24232,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Colombia,2019,12974,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Colombia,2020,32968,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Colombia,2021,90352,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Colombia,2022,77328,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",Colombia,2023,32311,Ore / Raw
+2603,Copper Ores And Concentrates,Colombia,2019,125000,Ore / Raw
+2615,"Niobium, Tantalum, Vanadium & Zirconium Ore & Conc",Colombia,2022,11800,Ore / Raw
+2616,Precious Metal Ores And Concentrates,Colombia,2023,442041,Ore / Raw
+2820,Manganese Oxides,Colombia,2022,44063,Compound
+2820,Manganese Oxides,Colombia,2023,2386375,Compound
+2820,Manganese Oxides,Colombia,2024,10136650,Compound
+2820,Manganese Oxides,Colombia,2025,14529110,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Colombia,2015,126470,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Colombia,2016,72336,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Colombia,2017,80498,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Colombia,2018,97964,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Colombia,2019,108439,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Colombia,2020,92595,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Colombia,2021,108892,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Colombia,2022,189169,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Colombia,2023,90935,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Colombia,2024,76195,Compound
+2841,Salts Of Oxometallic Or Peroxometallic Acids,Colombia,2025,50810,Compound
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Colombia,2015,1668908,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Colombia,2016,3131741,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Colombia,2017,1097501,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Colombia,2018,1348055,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Colombia,2019,82369,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Colombia,2020,1186275,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Colombia,2021,8554451,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Colombia,2022,9452022,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Colombia,2023,6179377,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Colombia,2024,16537831,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Colombia,2025,15169759,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Colombia,2024,6913,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Colombia,2025,2569,Refined / Articles
+7404,Copper Waste And Scrap,Colombia,2015,5920437,Refined / Articles
+7404,Copper Waste And Scrap,Colombia,2016,4750477,Refined / Articles
+7404,Copper Waste And Scrap,Colombia,2017,7521142,Refined / Articles
+7404,Copper Waste And Scrap,Colombia,2018,5853310,Refined / Articles
+7404,Copper Waste And Scrap,Colombia,2019,6129147,Refined / Articles
+7404,Copper Waste And Scrap,Colombia,2020,3737576,Refined / Articles
+7404,Copper Waste And Scrap,Colombia,2021,3806393,Refined / Articles
+7404,Copper Waste And Scrap,Colombia,2022,1644870,Refined / Articles
+7404,Copper Waste And Scrap,Colombia,2023,1468751,Refined / Articles
+7404,Copper Waste And Scrap,Colombia,2024,2478468,Refined / Articles
+7404,Copper Waste And Scrap,Colombia,2025,1726970,Refined / Articles
+7502,"Nickle, Unwrought",Colombia,2020,2253524,Refined / Articles
+7502,"Nickle, Unwrought",Colombia,2022,796176,Refined / Articles
+7901,"Zinc, Unwrought",Colombia,2016,2878,Refined / Articles
+7901,"Zinc, Unwrought",Colombia,2017,31897,Refined / Articles
+7901,"Zinc, Unwrought",Colombia,2019,3700,Refined / Articles
+7901,"Zinc, Unwrought",Colombia,2025,248826,Refined / Articles
+8001,"Tin, Unwrought",Colombia,2020,2105,Refined / Articles
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",Colombia,2017,8253,Refined / Articles
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",Colombia,2020,4829,Refined / Articles
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",Colombia,2021,13396,Refined / Articles
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",Colombia,2023,15127,Refined / Articles
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",Colombia,2024,37141,Refined / Articles
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",Colombia,2025,7254,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Colombia,2025,40100,Refined / Articles
+2616,Precious Metal Ores And Concentrates,Ecuador,2017,64493,Ore / Raw
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Ecuador,2015,9338,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Ecuador,2016,71858,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Ecuador,2017,357923,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Ecuador,2019,15134,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Ecuador,2020,897881,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Ecuador,2021,487118,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Ecuador,2022,1462861,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Ecuador,2023,2957,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Ecuador,2024,398055,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Ecuador,2025,415500,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Ecuador,2023,3710,Refined / Articles
+7404,Copper Waste And Scrap,Ecuador,2015,1104305,Refined / Articles
+7404,Copper Waste And Scrap,Ecuador,2016,778312,Refined / Articles
+7404,Copper Waste And Scrap,Ecuador,2017,1154180,Refined / Articles
+7404,Copper Waste And Scrap,Ecuador,2018,1003538,Refined / Articles
+7404,Copper Waste And Scrap,Ecuador,2019,1322557,Refined / Articles
+7404,Copper Waste And Scrap,Ecuador,2020,497349,Refined / Articles
+7404,Copper Waste And Scrap,Ecuador,2021,1924527,Refined / Articles
+7404,Copper Waste And Scrap,Ecuador,2022,535515,Refined / Articles
+7404,Copper Waste And Scrap,Ecuador,2023,741171,Refined / Articles
+7404,Copper Waste And Scrap,Ecuador,2024,3341767,Refined / Articles
+7404,Copper Waste And Scrap,Ecuador,2025,1401557,Refined / Articles
+7408,Copper Wire,Ecuador,2016,99652,Refined / Articles
+7408,Copper Wire,Ecuador,2025,578012,Refined / Articles
+8002,Tin Waste And Scrap,Ecuador,2024,37036,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Ecuador,2022,55640,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",French Guiana,2019,31551,Refined / Articles
+7404,Copper Waste And Scrap,Guyana,2015,37337,Refined / Articles
+7404,Copper Waste And Scrap,Guyana,2016,59619,Refined / Articles
+7404,Copper Waste And Scrap,Guyana,2017,453558,Refined / Articles
+7404,Copper Waste And Scrap,Guyana,2018,478164,Refined / Articles
+7404,Copper Waste And Scrap,Guyana,2019,394585,Refined / Articles
+7404,Copper Waste And Scrap,Guyana,2020,190801,Refined / Articles
+7404,Copper Waste And Scrap,Guyana,2021,69591,Refined / Articles
+7404,Copper Waste And Scrap,Guyana,2022,307422,Refined / Articles
+7404,Copper Waste And Scrap,Guyana,2023,304986,Refined / Articles
+7404,Copper Waste And Scrap,Guyana,2024,623603,Refined / Articles
+7404,Copper Waste And Scrap,Guyana,2025,232066,Refined / Articles
+7404,Copper Waste And Scrap,Paraguay,2015,119432,Refined / Articles
+7404,Copper Waste And Scrap,Paraguay,2016,21914,Refined / Articles
+7404,Copper Waste And Scrap,Paraguay,2018,165789,Refined / Articles
+7404,Copper Waste And Scrap,Paraguay,2019,195467,Refined / Articles
+7404,Copper Waste And Scrap,Paraguay,2020,60875,Refined / Articles
+7404,Copper Waste And Scrap,Paraguay,2021,344973,Refined / Articles
+7404,Copper Waste And Scrap,Paraguay,2024,60531,Refined / Articles
+2603,Copper Ores And Concentrates,Peru,2019,4150,Ore / Raw
+2603,Copper Ores And Concentrates,Peru,2021,5268578,Ore / Raw
+2603,Copper Ores And Concentrates,Peru,2025,15140,Ore / Raw
+2608,Zinc Ores And Concentrates,Peru,2017,14890085,Ore / Raw
+2608,Zinc Ores And Concentrates,Peru,2020,4354208,Ore / Raw
+2608,Zinc Ores And Concentrates,Peru,2021,11290372,Ore / Raw
+2608,Zinc Ores And Concentrates,Peru,2022,8257768,Ore / Raw
+2608,Zinc Ores And Concentrates,Peru,2023,4275549,Ore / Raw
+2608,Zinc Ores And Concentrates,Peru,2024,29060975,Ore / Raw
+2608,Zinc Ores And Concentrates,Peru,2025,26130827,Ore / Raw
+2817,Zinc Oxide And Zinc Peroxide,Peru,2015,3224232,Compound
+2817,Zinc Oxide And Zinc Peroxide,Peru,2016,8824201,Compound
+2817,Zinc Oxide And Zinc Peroxide,Peru,2017,2187879,Compound
+2817,Zinc Oxide And Zinc Peroxide,Peru,2018,7143850,Compound
+2817,Zinc Oxide And Zinc Peroxide,Peru,2019,7542019,Compound
+2817,Zinc Oxide And Zinc Peroxide,Peru,2020,8644692,Compound
+2817,Zinc Oxide And Zinc Peroxide,Peru,2021,14345267,Compound
+2817,Zinc Oxide And Zinc Peroxide,Peru,2022,19944528,Compound
+2817,Zinc Oxide And Zinc Peroxide,Peru,2023,17011506,Compound
+2817,Zinc Oxide And Zinc Peroxide,Peru,2024,18083511,Compound
+2817,Zinc Oxide And Zinc Peroxide,Peru,2025,15977378,Compound
+2820,Manganese Oxides,Peru,2018,271018,Compound
+2820,Manganese Oxides,Peru,2019,466314,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Peru,2015,806970,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Peru,2016,584936,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Peru,2017,661100,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Peru,2018,874998,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Peru,2019,814309,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Peru,2020,368898,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Peru,2021,562178,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Peru,2022,1098230,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Peru,2023,797894,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Peru,2024,537045,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",Peru,2025,3158285,Compound
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Peru,2015,185125954,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Peru,2016,332948170,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Peru,2017,243200923,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Peru,2018,190107960,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Peru,2019,42339339,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Peru,2020,63550814,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Peru,2021,39092793,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Peru,2022,35977892,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Peru,2023,45112894,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Peru,2024,64468515,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Peru,2025,66459972,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Peru,2015,71717888,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Peru,2016,142656414,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Peru,2017,118033075,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Peru,2018,122529348,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Peru,2019,59471104,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Peru,2020,99747531,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Peru,2021,263715331,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Peru,2022,466952533,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Peru,2023,672778669,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Peru,2024,578269129,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Peru,2025,883668659,Refined / Articles
+7404,Copper Waste And Scrap,Peru,2015,1084992,Refined / Articles
+7404,Copper Waste And Scrap,Peru,2016,1023856,Refined / Articles
+7404,Copper Waste And Scrap,Peru,2017,773732,Refined / Articles
+7404,Copper Waste And Scrap,Peru,2018,754918,Refined / Articles
+7404,Copper Waste And Scrap,Peru,2019,1352842,Refined / Articles
+7404,Copper Waste And Scrap,Peru,2020,3609125,Refined / Articles
+7404,Copper Waste And Scrap,Peru,2021,2361171,Refined / Articles
+7404,Copper Waste And Scrap,Peru,2022,1497899,Refined / Articles
+7404,Copper Waste And Scrap,Peru,2023,489676,Refined / Articles
+7404,Copper Waste And Scrap,Peru,2024,1459479,Refined / Articles
+7404,Copper Waste And Scrap,Peru,2025,266243,Refined / Articles
+7408,Copper Wire,Peru,2015,37412739,Refined / Articles
+7408,Copper Wire,Peru,2016,23323940,Refined / Articles
+7408,Copper Wire,Peru,2017,32248277,Refined / Articles
+7408,Copper Wire,Peru,2018,41332046,Refined / Articles
+7408,Copper Wire,Peru,2019,36479793,Refined / Articles
+7408,Copper Wire,Peru,2020,27571305,Refined / Articles
+7408,Copper Wire,Peru,2021,61294477,Refined / Articles
+7408,Copper Wire,Peru,2022,65172582,Refined / Articles
+7408,Copper Wire,Peru,2023,51052847,Refined / Articles
+7408,Copper Wire,Peru,2024,65787798,Refined / Articles
+7408,Copper Wire,Peru,2025,57399259,Refined / Articles
+7501,"Nickle Mattes, Nickle Oxide Sinters, Oth Int Prod",Peru,2025,4488,Refined / Articles
+7502,"Nickle, Unwrought",Peru,2023,609507,Refined / Articles
+7901,"Zinc, Unwrought",Peru,2015,66353097,Refined / Articles
+7901,"Zinc, Unwrought",Peru,2016,133062501,Refined / Articles
+7901,"Zinc, Unwrought",Peru,2017,156065710,Refined / Articles
+7901,"Zinc, Unwrought",Peru,2018,138679112,Refined / Articles
+7901,"Zinc, Unwrought",Peru,2019,153239577,Refined / Articles
+7901,"Zinc, Unwrought",Peru,2020,98806538,Refined / Articles
+7901,"Zinc, Unwrought",Peru,2021,105982598,Refined / Articles
+7901,"Zinc, Unwrought",Peru,2022,184400867,Refined / Articles
+7901,"Zinc, Unwrought",Peru,2023,193612789,Refined / Articles
+7901,"Zinc, Unwrought",Peru,2024,185300178,Refined / Articles
+7901,"Zinc, Unwrought",Peru,2025,288093754,Refined / Articles
+8001,"Tin, Unwrought",Peru,2015,121146930,Refined / Articles
+8001,"Tin, Unwrought",Peru,2016,120749875,Refined / Articles
+8001,"Tin, Unwrought",Peru,2017,157825286,Refined / Articles
+8001,"Tin, Unwrought",Peru,2018,139750294,Refined / Articles
+8001,"Tin, Unwrought",Peru,2019,154673249,Refined / Articles
+8001,"Tin, Unwrought",Peru,2020,157436909,Refined / Articles
+8001,"Tin, Unwrought",Peru,2021,354309648,Refined / Articles
+8001,"Tin, Unwrought",Peru,2022,320797055,Refined / Articles
+8001,"Tin, Unwrought",Peru,2023,255520664,Refined / Articles
+8001,"Tin, Unwrought",Peru,2024,282171396,Refined / Articles
+8001,"Tin, Unwrought",Peru,2025,459935727,Refined / Articles
+8002,Tin Waste And Scrap,Peru,2018,385405,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Peru,2015,800917,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Peru,2021,478788,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Peru,2022,130968,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Peru,2023,48850,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Peru,2024,30419,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Peru,2025,32966,Refined / Articles
+7404,Copper Waste And Scrap,Suriname,2015,1128260,Refined / Articles
+7404,Copper Waste And Scrap,Suriname,2016,893940,Refined / Articles
+7404,Copper Waste And Scrap,Suriname,2017,1089084,Refined / Articles
+7404,Copper Waste And Scrap,Suriname,2018,890514,Refined / Articles
+7404,Copper Waste And Scrap,Suriname,2019,986794,Refined / Articles
+7404,Copper Waste And Scrap,Suriname,2020,366041,Refined / Articles
+7404,Copper Waste And Scrap,Suriname,2021,2127336,Refined / Articles
+7404,Copper Waste And Scrap,Suriname,2022,2866075,Refined / Articles
+7404,Copper Waste And Scrap,Suriname,2023,2144719,Refined / Articles
+7404,Copper Waste And Scrap,Suriname,2024,2225341,Refined / Articles
+7404,Copper Waste And Scrap,Suriname,2025,3608102,Refined / Articles
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Uruguay,2024,232741,Refined / Articles
+7404,Copper Waste And Scrap,Uruguay,2015,66900,Refined / Articles
+7404,Copper Waste And Scrap,Uruguay,2016,33472,Refined / Articles
+7404,Copper Waste And Scrap,Uruguay,2017,160273,Refined / Articles
+7404,Copper Waste And Scrap,Uruguay,2018,99074,Refined / Articles
+7404,Copper Waste And Scrap,Uruguay,2019,94670,Refined / Articles
+7404,Copper Waste And Scrap,Uruguay,2021,4128163,Refined / Articles
+7404,Copper Waste And Scrap,Uruguay,2022,618704,Refined / Articles
+7404,Copper Waste And Scrap,Uruguay,2023,432005,Refined / Articles
+7404,Copper Waste And Scrap,Uruguay,2024,621553,Refined / Articles
+7404,Copper Waste And Scrap,Uruguay,2025,469267,Refined / Articles
+7502,"Nickle, Unwrought",Uruguay,2018,4410,Refined / Articles
+2615,"Niobium, Tantalum, Vanadium & Zirconium Ore & Conc",Venezuela,2018,80000,Ore / Raw
+2615,"Niobium, Tantalum, Vanadium & Zirconium Ore & Conc",Venezuela,2019,1242276,Ore / Raw
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",Venezuela,2016,43301,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Venezuela,2015,692655,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Venezuela,2016,643939,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",Venezuela,2017,190220,Refined / Articles
+7404,Copper Waste And Scrap,Venezuela,2016,3009652,Refined / Articles
+7404,Copper Waste And Scrap,Venezuela,2017,12017056,Refined / Articles
+7404,Copper Waste And Scrap,Venezuela,2018,15651469,Refined / Articles
+7404,Copper Waste And Scrap,Venezuela,2019,2348343,Refined / Articles
+7404,Copper Waste And Scrap,Venezuela,2020,674183,Refined / Articles
+7404,Copper Waste And Scrap,Venezuela,2021,3588018,Refined / Articles
+7404,Copper Waste And Scrap,Venezuela,2022,88379,Refined / Articles
+7404,Copper Waste And Scrap,Venezuela,2023,608497,Refined / Articles
+7404,Copper Waste And Scrap,Venezuela,2024,1454908,Refined / Articles
+7404,Copper Waste And Scrap,Venezuela,2025,508839,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",Venezuela,2016,6898,Refined / Articles
