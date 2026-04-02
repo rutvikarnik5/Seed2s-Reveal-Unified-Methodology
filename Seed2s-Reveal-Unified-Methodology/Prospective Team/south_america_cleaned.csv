@@ -1,0 +1,603 @@
+HS Code,Commodity Name,Year,Month,Country,Nominal Value,Annual Inflation Rate,CPI,Real Value,Category Type
+2504,Natural Graphite,2021,,Argentina,5750,4.7,124.2543,4627.606449032347,Ore / Raw
+2504,Natural Graphite,2015,,Brazil,9941921,0.12,108.6937,9146731.59529945,Ore / Raw
+2504,Natural Graphite,2016,,Brazil,7426485,1.26,110.0632,6747473.269903111,Ore / Raw
+2504,Natural Graphite,2017,,Brazil,7601671,2.13,112.4076,6762595.233774229,Ore / Raw
+2504,Natural Graphite,2018,,Brazil,6469010,2.44,115.1503,5617883.757141753,Ore / Raw
+2504,Natural Graphite,2019,,Brazil,5006893,1.81,117.2345,4270835.803453762,Ore / Raw
+2504,Natural Graphite,2020,,Brazil,5464157,1.23,118.6765,4604245.153842589,Ore / Raw
+2504,Natural Graphite,2021,,Brazil,5956447,4.7,124.2543,4793755.226177284,Ore / Raw
+2504,Natural Graphite,2022,,Brazil,4590114,8.0,134.1947,3420488.2905211607,Ore / Raw
+2504,Natural Graphite,2023,,Brazil,4801681,4.12,139.7235,3436559.3475685907,Ore / Raw
+2504,Natural Graphite,2024,,Brazil,4474336,2.9,143.7755,3112029.5182419815,Ore / Raw
+2504,Natural Graphite,2025,,Brazil,5713293,2.8,147.8012,3865525.4490491287,Ore / Raw
+2504,Natural Graphite,2023,,Colombia,14875,4.12,139.7235,10646.02590115478,Ore / Raw
+2504,Natural Graphite,2024,,Colombia,14876,2.9,143.7755,10346.68632694722,Ore / Raw
+2504,Natural Graphite,2025,,Colombia,61267,2.8,147.8012,41452.30214639665,Ore / Raw
+2603,Copper Ores And Concentrates,2025,,Chile,30000,2.8,147.8012,20297.53479674049,Ore / Raw
+2603,Copper Ores And Concentrates,2019,,Colombia,125000,1.81,117.2345,106623.90337315381,Ore / Raw
+2603,Copper Ores And Concentrates,2019,,Peru,4150,1.81,117.2345,3539.9135919887067,Ore / Raw
+2603,Copper Ores And Concentrates,2021,,Peru,5268578,4.7,124.2543,4240157.483483469,Ore / Raw
+2603,Copper Ores And Concentrates,2025,,Peru,15140,2.8,147.8012,10243.4892274217,Ore / Raw
+7401,Copper Mattes; Cement Copper (precipitated Copper),2019,,Brazil,69775,1.81,117.2345,59517.462862894456,Compound
+7402,Unrefnd Cppr; Cppr Anods F Elctroltc Refining,2022,,Brazil,8240,8.0,134.1947,6140.331920709237,Compound
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2015,,Bolivia,8659567,0.12,108.6937,7966944.726327284,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2016,,Bolivia,8684794,1.26,110.0632,7890733.68755406,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2017,,Bolivia,9479566,2.13,112.4076,8433207.3632032,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2018,,Bolivia,9638446,2.44,115.1503,8370317.749932044,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2019,,Bolivia,9108173,1.81,117.2345,7769191.662863748,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2020,,Bolivia,6775720,1.23,118.6765,5709403.293828179,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2021,,Bolivia,6543859,4.7,124.2543,5266505.0626014555,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2024,,Bolivia,2019146,2.9,143.7755,1404374.1805801406,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2025,,Bolivia,3642642,2.8,147.8012,2464555.0915689454,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2016,,Brazil,4175589,1.26,110.0632,3793810.283546181,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2017,,Brazil,21114433,2.13,112.4076,18783812.660353925,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2018,,Brazil,2815538,2.44,115.1503,2445098.2759054904,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2019,,Brazil,363370,1.81,117.2345,309951.4221496232,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2020,,Brazil,40217,1.23,118.6765,33887.92220869338,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2021,,Brazil,49041633,4.7,124.2543,39468761.24206567,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2022,,Brazil,318980,8.0,134.1947,237699.4024354166,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2023,,Brazil,73947,4.12,139.7235,52923.81023950875,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2024,,Brazil,45312,2.9,143.7755,31515.800675358456,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2025,,Brazil,91079,2.8,147.8012,61622.63905841089,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2015,,Chile,1915675948,0.12,108.6937,1762453525.8253236,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2016,,Chile,1668638735,1.26,110.0632,1516073251.5500185,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2017,,Chile,3002728546,2.13,112.4076,2671286057.1705112,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2018,,Chile,2992780255,2.44,115.1503,2599020805.8511353,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2019,,Chile,2558402873,1.81,117.2345,2182295205.762809,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2020,,Chile,2503743427,1.23,118.6765,2109721323.9352357,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2021,,Chile,5651456655,4.7,124.2543,4548298654.453005,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2022,,Chile,4226131709,8.0,134.1947,3149253814.792983,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2023,,Chile,4584313629,4.12,139.7235,3280989689.6370335,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2024,,Chile,6044245096,2.9,143.7755,4203946497.143116,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2025,,Chile,8883318659,2.8,147.8012,6010315653.052885,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2024,,Colombia,6913,2.9,143.7755,4808.190547068172,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2025,,Colombia,2569,2.8,147.8012,1738.1455630942103,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2023,,Ecuador,3710,4.12,139.7235,2655.2441071115454,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2015,,Peru,71717888,0.12,108.6937,65981641.99029014,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2016,,Peru,142656414,1.26,110.0632,129613180.42724545,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2017,,Peru,118033075,2.13,112.4076,105004532.61167394,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2018,,Peru,122529348,2.44,115.1503,106408188.25482868,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2019,,Peru,59471104,1.81,117.2345,50728329.97112624,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2020,,Peru,99747531,1.23,118.6765,84049943.33334738,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2021,,Peru,263715331,4.7,124.2543,212238394.1642261,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2022,,Peru,466952533,8.0,134.1947,347966449.49465215,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2023,,Peru,672778669,4.12,139.7235,481507168.8012396,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2024,,Peru,578269129,2.9,143.7755,402202829.4111306,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2025,,Peru,883668659,2.8,147.8012,597876511.8280501,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2015,,Venezuela,692655,0.12,108.6937,637254.0450826497,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2016,,Venezuela,643939,1.26,110.0632,585062.945653043,Refined / Articles
+7403,"Refined Copper & Alloys (no Mast Alloy), Unwrought",2017,,Venezuela,190220,2.13,112.4076,169223.43329098745,Refined / Articles
+7404,Copper Waste And Scrap,2024,,Argentina,2957,2.9,143.7755,2056.6786413540553,Refined / Articles
+7404,Copper Waste And Scrap,2016,,Bolivia,234394,1.26,110.0632,212963.09756576223,Refined / Articles
+7404,Copper Waste And Scrap,2017,,Bolivia,138771,2.13,112.4076,123453.39638956796,Refined / Articles
+7404,Copper Waste And Scrap,2018,,Bolivia,333369,2.44,115.1503,289507.71296297095,Refined / Articles
+7404,Copper Waste And Scrap,2019,,Bolivia,998218,1.81,117.2345,851471.1966187428,Refined / Articles
+7404,Copper Waste And Scrap,2020,,Bolivia,317594,1.23,118.6765,267613.2174440601,Refined / Articles
+7404,Copper Waste And Scrap,2021,,Bolivia,2432025,4.7,124.2543,1957296.4476883295,Refined / Articles
+7404,Copper Waste And Scrap,2022,,Bolivia,758962,8.0,134.1947,565567.7906802578,Refined / Articles
+7404,Copper Waste And Scrap,2023,,Bolivia,509428,4.12,139.7235,364597.22237132624,Refined / Articles
+7404,Copper Waste And Scrap,2024,,Bolivia,5459828,2.9,143.7755,3797467.5796641293,Refined / Articles
+7404,Copper Waste And Scrap,2025,,Bolivia,548644,2.8,147.8012,371204.0227007629,Refined / Articles
+7404,Copper Waste And Scrap,2015,,Brazil,2943479,0.12,108.6937,2708049.3165657255,Refined / Articles
+7404,Copper Waste And Scrap,2016,,Brazil,1177406,1.26,110.0632,1069754.4683418255,Refined / Articles
+7404,Copper Waste And Scrap,2017,,Brazil,737333,2.13,112.4076,655945.8613118686,Refined / Articles
+7404,Copper Waste And Scrap,2018,,Brazil,2061372,2.44,115.1503,1790157.7329802876,Refined / Articles
+7404,Copper Waste And Scrap,2019,,Brazil,1477380,1.81,117.2345,1260192.17892344,Refined / Articles
+7404,Copper Waste And Scrap,2020,,Brazil,491951,1.23,118.6765,414531.09924879816,Refined / Articles
+7404,Copper Waste And Scrap,2021,,Brazil,483986,4.7,124.2543,389512.47562458605,Refined / Articles
+7404,Copper Waste And Scrap,2022,,Brazil,892500,8.0,134.1947,665078.4270913829,Refined / Articles
+7404,Copper Waste And Scrap,2023,,Brazil,1877407,4.12,139.7235,1343658.725983818,Refined / Articles
+7404,Copper Waste And Scrap,2024,,Brazil,269439,2.9,143.7755,187402.582498409,Refined / Articles
+7404,Copper Waste And Scrap,2025,,Brazil,68726,2.8,147.8012,46498.94588135956,Refined / Articles
+7404,Copper Waste And Scrap,2015,,Chile,1660019,0.12,108.6937,1527244.9093185712,Refined / Articles
+7404,Copper Waste And Scrap,2016,,Chile,485550,1.26,110.0632,441155.6269488803,Refined / Articles
+7404,Copper Waste And Scrap,2017,,Chile,1051701,2.13,112.4076,935613.7841213584,Refined / Articles
+7404,Copper Waste And Scrap,2018,,Chile,1643281,2.44,115.1503,1427074.875184867,Refined / Articles
+7404,Copper Waste And Scrap,2019,,Chile,7295643,1.81,117.2345,6223119.474216208,Refined / Articles
+7404,Copper Waste And Scrap,2020,,Chile,757570,1.23,118.6765,638348.7885133114,Refined / Articles
+7404,Copper Waste And Scrap,2021,,Chile,704887,4.7,124.2543,567293.8481807068,Refined / Articles
+7404,Copper Waste And Scrap,2022,,Chile,285433,8.0,134.1947,212700.6506218204,Refined / Articles
+7404,Copper Waste And Scrap,2023,,Chile,123800,4.12,139.7235,88603.5634664176,Refined / Articles
+7404,Copper Waste And Scrap,2024,,Chile,779236,2.9,143.7755,541981.0746615384,Refined / Articles
+7404,Copper Waste And Scrap,2025,,Chile,253900,2.8,147.8012,171784.802829747,Refined / Articles
+7404,Copper Waste And Scrap,2015,,Colombia,5920437,0.12,108.6937,5446899.866321598,Refined / Articles
+7404,Copper Waste And Scrap,2016,,Colombia,4750477,1.26,110.0632,4316135.638433191,Refined / Articles
+7404,Copper Waste And Scrap,2017,,Colombia,7521142,2.13,112.4076,6690955.059978151,Refined / Articles
+7404,Copper Waste And Scrap,2018,,Colombia,5853310,2.44,115.1503,5083191.272623693,Refined / Articles
+7404,Copper Waste And Scrap,2019,,Colombia,6129147,1.81,117.2345,5228108.619902845,Refined / Articles
+7404,Copper Waste And Scrap,2020,,Colombia,3737576,1.23,118.6765,3149381.722581977,Refined / Articles
+7404,Copper Waste And Scrap,2021,,Colombia,3806393,4.7,124.2543,3063389.3555394057,Refined / Articles
+7404,Copper Waste And Scrap,2022,,Colombia,1644870,8.0,134.1947,1225733.9522350733,Refined / Articles
+7404,Copper Waste And Scrap,2023,,Colombia,1468751,4.12,139.7235,1051183.9454350914,Refined / Articles
+7404,Copper Waste And Scrap,2024,,Colombia,2478468,2.9,143.7755,1723845.8569088615,Refined / Articles
+7404,Copper Waste And Scrap,2025,,Colombia,1726970,2.8,147.8012,1168441.1222642306,Refined / Articles
+7404,Copper Waste And Scrap,2015,,Ecuador,1104305,0.12,108.6937,1015978.8469800917,Refined / Articles
+7404,Copper Waste And Scrap,2016,,Ecuador,778312,1.26,110.0632,707150.0737757944,Refined / Articles
+7404,Copper Waste And Scrap,2017,,Ecuador,1154180,2.13,112.4076,1026781.1073272625,Refined / Articles
+7404,Copper Waste And Scrap,2018,,Ecuador,1003538,2.44,115.1503,871502.722962945,Refined / Articles
+7404,Copper Waste And Scrap,2019,,Ecuador,1322557,1.81,117.2345,1128129.5181879054,Refined / Articles
+7404,Copper Waste And Scrap,2020,,Ecuador,497349,1.23,118.6765,419079.5987411156,Refined / Articles
+7404,Copper Waste And Scrap,2021,,Ecuador,1924527,4.7,124.2543,1548861.4880933696,Refined / Articles
+7404,Copper Waste And Scrap,2022,,Ecuador,535515,8.0,134.1947,399058.2340435203,Refined / Articles
+7404,Copper Waste And Scrap,2023,,Ecuador,741171,4.12,139.7235,530455.5067687253,Refined / Articles
+7404,Copper Waste And Scrap,2024,,Ecuador,3341767,2.9,143.7755,2324295.1685092384,Refined / Articles
+7404,Copper Waste And Scrap,2025,,Ecuador,1401557,2.8,147.8012,948271.7325705069,Refined / Articles
+7404,Copper Waste And Scrap,2015,,Guyana,37337,0.12,108.6937,34350.6569377986,Refined / Articles
+7404,Copper Waste And Scrap,2016,,Guyana,59619,1.26,110.0632,54167.96894874945,Refined / Articles
+7404,Copper Waste And Scrap,2017,,Guyana,453558,2.13,112.4076,403494.06979599246,Refined / Articles
+7404,Copper Waste And Scrap,2018,,Guyana,478164,2.44,115.1503,415252.06621259346,Refined / Articles
+7404,Copper Waste And Scrap,2019,,Guyana,394585,1.81,117.2345,336577.54329996713,Refined / Articles
+7404,Copper Waste And Scrap,2020,,Guyana,190801,1.23,118.6765,160774.03698289045,Refined / Articles
+7404,Copper Waste And Scrap,2021,,Guyana,69591,4.7,124.2543,56006.914851236535,Refined / Articles
+7404,Copper Waste And Scrap,2022,,Guyana,307422,8.0,134.1947,229086.54365634406,Refined / Articles
+7404,Copper Waste And Scrap,2023,,Guyana,304986,4.12,139.7235,218278.2423858549,Refined / Articles
+7404,Copper Waste And Scrap,2024,,Guyana,623603,2.9,143.7755,433733.8419967241,Refined / Articles
+7404,Copper Waste And Scrap,2025,,Guyana,232066,2.8,147.8012,157012.25700467927,Refined / Articles
+7404,Copper Waste And Scrap,2015,,Paraguay,119432,0.12,108.6937,109879.41343426528,Refined / Articles
+7404,Copper Waste And Scrap,2016,,Paraguay,21914,1.26,110.0632,19910.378764200934,Refined / Articles
+7404,Copper Waste And Scrap,2018,,Paraguay,165789,2.44,115.1503,143976.1772222912,Refined / Articles
+7404,Copper Waste And Scrap,2019,,Paraguay,195467,1.81,117.2345,166731.63616512204,Refined / Articles
+7404,Copper Waste And Scrap,2020,,Paraguay,60875,1.23,118.6765,51294.90674227838,Refined / Articles
+7404,Copper Waste And Scrap,2021,,Paraguay,344973,4.7,124.2543,277634.65731165843,Refined / Articles
+7404,Copper Waste And Scrap,2024,,Paraguay,60531,2.9,143.7755,42101.05337835723,Refined / Articles
+7404,Copper Waste And Scrap,2015,,Peru,1084992,0.12,108.6937,998210.5678617987,Refined / Articles
+7404,Copper Waste And Scrap,2016,,Peru,1023856,1.26,110.0632,930243.7145203847,Refined / Articles
+7404,Copper Waste And Scrap,2017,,Peru,773732,2.13,112.4076,688327.123788783,Refined / Articles
+7404,Copper Waste And Scrap,2018,,Peru,754918,2.44,115.1503,655593.6024482785,Refined / Articles
+7404,Copper Waste And Scrap,2019,,Peru,1352842,1.81,117.2345,1153962.3574971533,Refined / Articles
+7404,Copper Waste And Scrap,2020,,Peru,3609125,1.23,118.6765,3041145.4668784468,Refined / Articles
+7404,Copper Waste And Scrap,2021,,Peru,2361171,4.7,124.2543,1900273.069020549,Refined / Articles
+7404,Copper Waste And Scrap,2022,,Peru,1497899,8.0,134.1947,1116213.2334585492,Refined / Articles
+7404,Copper Waste And Scrap,2023,,Peru,489676,4.12,139.7235,350460.73137303314,Refined / Articles
+7404,Copper Waste And Scrap,2024,,Peru,1459479,2.9,143.7755,1015109.6675024604,Refined / Articles
+7404,Copper Waste And Scrap,2025,,Peru,266243,2.8,147.8012,180135.88522961925,Refined / Articles
+7404,Copper Waste And Scrap,2015,,Suriname,1128260,0.12,108.6937,1038017.8428004567,Refined / Articles
+7404,Copper Waste And Scrap,2016,,Suriname,893940,1.26,110.0632,812206.0779624798,Refined / Articles
+7404,Copper Waste And Scrap,2017,,Suriname,1089084,2.13,112.4076,968870.4322483533,Refined / Articles
+7404,Copper Waste And Scrap,2018,,Suriname,890514,2.44,115.1503,773349.2661330452,Refined / Articles
+7404,Copper Waste And Scrap,2019,,Suriname,986794,1.81,117.2345,841726.6248416635,Refined / Articles
+7404,Copper Waste And Scrap,2020,,Suriname,366041,1.23,118.6765,308435.95825626806,Refined / Articles
+7404,Copper Waste And Scrap,2021,,Suriname,2127336,4.7,124.2543,1712082.3987580307,Refined / Articles
+7404,Copper Waste And Scrap,2022,,Suriname,2866075,8.0,134.1947,2135758.7147629526,Refined / Articles
+7404,Copper Waste And Scrap,2023,,Suriname,2144719,4.12,139.7235,1534973.7159461365,Refined / Articles
+7404,Copper Waste And Scrap,2024,,Suriname,2225341,2.9,143.7755,1547788.7400843678,Refined / Articles
+7404,Copper Waste And Scrap,2025,,Suriname,3608102,2.8,147.8012,2441185.863172965,Refined / Articles
+7404,Copper Waste And Scrap,2015,,Uruguay,66900,0.12,108.6937,61549.10542193337,Refined / Articles
+7404,Copper Waste And Scrap,2016,,Uruguay,33472,1.26,110.0632,30411.61805217366,Refined / Articles
+7404,Copper Waste And Scrap,2017,,Uruguay,160273,2.13,112.4076,142581.99623513,Refined / Articles
+7404,Copper Waste And Scrap,2018,,Uruguay,99074,2.44,115.1503,86038.85530476256,Refined / Articles
+7404,Copper Waste And Scrap,2019,,Uruguay,94670,1.81,117.2345,80752.67945869177,Refined / Articles
+7404,Copper Waste And Scrap,2021,,Uruguay,4128163,4.7,124.2543,3322350.212427256,Refined / Articles
+7404,Copper Waste And Scrap,2022,,Uruguay,618704,8.0,134.1947,461049.50493573886,Refined / Articles
+7404,Copper Waste And Scrap,2023,,Uruguay,432005,4.12,139.7235,309185.6416422434,Refined / Articles
+7404,Copper Waste And Scrap,2024,,Uruguay,621553,2.9,143.7755,432308.00797076,Refined / Articles
+7404,Copper Waste And Scrap,2025,,Uruguay,469267,2.8,147.8012,317498.7753820673,Refined / Articles
+7404,Copper Waste And Scrap,2016,,Venezuela,3009652,1.26,110.0632,2734476.1918606763,Refined / Articles
+7404,Copper Waste And Scrap,2017,,Venezuela,12017056,2.13,112.4076,10690608.108348545,Refined / Articles
+7404,Copper Waste And Scrap,2018,,Venezuela,15651469,2.44,115.1503,13592208.617780413,Refined / Articles
+7404,Copper Waste And Scrap,2019,,Venezuela,2348343,1.81,117.2345,2003115.9769521772,Refined / Articles
+7404,Copper Waste And Scrap,2020,,Venezuela,674183,1.23,118.6765,568084.6671413464,Refined / Articles
+7404,Copper Waste And Scrap,2021,,Venezuela,3588018,4.7,124.2543,2887640.910616373,Refined / Articles
+7404,Copper Waste And Scrap,2022,,Venezuela,88379,8.0,134.1947,65858.78577917011,Refined / Articles
+7404,Copper Waste And Scrap,2023,,Venezuela,608497,4.12,139.7235,435500.8284218475,Refined / Articles
+7404,Copper Waste And Scrap,2024,,Venezuela,1454908,2.9,143.7755,1011930.4053889571,Refined / Articles
+7404,Copper Waste And Scrap,2025,,Venezuela,508839,2.8,147.8012,344272.5769479544,Refined / Articles
+7408,Copper Wire,2021,,Argentina,3418,4.7,124.2543,2750.8102335291414,Advanced Product
+7408,Copper Wire,2015,,Brazil,59904,0.12,108.6937,55112.66982355003,Advanced Product
+7408,Copper Wire,2016,,Brazil,335299,1.26,110.0632,304642.2419119197,Advanced Product
+7408,Copper Wire,2017,,Brazil,54933,2.13,112.4076,48869.47145922518,Advanced Product
+7408,Copper Wire,2018,,Brazil,995323,2.44,115.1503,864368.5687314754,Advanced Product
+7408,Copper Wire,2019,,Brazil,547460,1.81,117.2345,466978.5771253343,Advanced Product
+7408,Copper Wire,2020,,Brazil,1475917,1.23,118.6765,1243647.2258619019,Advanced Product
+7408,Copper Wire,2021,,Brazil,1112116,4.7,124.2543,895032.2041168796,Advanced Product
+7408,Copper Wire,2022,,Brazil,1101040,8.0,134.1947,820479.4973273907,Advanced Product
+7408,Copper Wire,2023,,Brazil,372637,4.12,139.7235,266696.01033469674,Advanced Product
+7408,Copper Wire,2024,,Brazil,1317677,2.9,143.7755,916482.2935757483,Advanced Product
+7408,Copper Wire,2025,,Brazil,1225097,2.8,147.8012,828881.6328960793,Advanced Product
+7408,Copper Wire,2015,,Chile,3063006,0.12,108.6937,2818016.1315697227,Advanced Product
+7408,Copper Wire,2016,,Chile,727894,1.26,110.0632,661341.8472295917,Advanced Product
+7408,Copper Wire,2017,,Chile,6304967,2.13,112.4076,5609021.987837122,Advanced Product
+7408,Copper Wire,2018,,Chile,20959,2.44,115.1503,18201.428915078814,Advanced Product
+7408,Copper Wire,2021,,Chile,1046550,4.7,124.2543,842264.6137799658,Advanced Product
+7408,Copper Wire,2022,,Chile,1069184,8.0,134.1947,796740.8548921826,Advanced Product
+7408,Copper Wire,2023,,Chile,51166310,4.12,139.7235,36619688.16984974,Advanced Product
+7408,Copper Wire,2024,,Chile,72134318,2.9,143.7755,50171495.143470205,Advanced Product
+7408,Copper Wire,2025,,Chile,44481868,2.8,147.8012,30095742.118467238,Advanced Product
+7408,Copper Wire,2016,,Ecuador,99652,1.26,110.0632,90540.7075207699,Advanced Product
+7408,Copper Wire,2025,,Ecuador,578012,2.8,147.8012,391073.9560977854,Advanced Product
+7408,Copper Wire,2015,,Peru,37412739,0.12,108.6937,34420338.06927172,Advanced Product
+7408,Copper Wire,2016,,Peru,23323940,1.26,110.0632,21191406.391963888,Advanced Product
+7408,Copper Wire,2017,,Peru,32248277,2.13,112.4076,28688698.09514659,Advanced Product
+7408,Copper Wire,2018,,Peru,41332046,2.44,115.1503,35893997.670870155,Advanced Product
+7408,Copper Wire,2019,,Peru,36479793,1.81,117.2345,31116943.39123722,Advanced Product
+7408,Copper Wire,2020,,Peru,27571305,1.23,118.6765,23232320.63635176,Advanced Product
+7408,Copper Wire,2021,,Peru,61294477,4.7,124.2543,49329863.83569825,Advanced Product
+7408,Copper Wire,2022,,Peru,65172582,8.0,134.1947,48565690.001169935,Advanced Product
+7408,Copper Wire,2023,,Peru,51052847,4.12,139.7235,36538482.789223,Advanced Product
+7408,Copper Wire,2024,,Peru,65787798,2.9,143.7755,45757307.74714746,Advanced Product
+7408,Copper Wire,2025,,Peru,57399259,2.8,147.8012,38835448.56198732,Advanced Product
+2525,"Mica, Including Splittings; Mica Waste",2015,,Brazil,392130,0.12,108.6937,360766.0793587853,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",2016,,Brazil,696840,1.26,110.0632,633127.1487654366,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",2017,,Brazil,924735,2.13,112.4076,822662.3466740682,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",2018,,Brazil,950971,2.44,115.1503,825851.951753491,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",2019,,Brazil,542578,1.81,117.2345,462814.2739551924,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",2020,,Brazil,611860,1.23,118.6765,515569.63678571576,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",2021,,Brazil,617806,4.7,124.2543,497210.96171319624,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",2022,,Brazil,1153901,8.0,134.1947,859870.7698590183,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",2023,,Brazil,1029610,4.12,139.7235,736891.0741571747,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",2024,,Brazil,838321,2.9,143.7755,583076.393404996,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",2025,,Brazil,138421,2.8,147.8012,93653.50213665383,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",2018,,Colombia,24232,2.44,115.1503,21043.80101484755,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",2019,,Colombia,12974,1.81,117.2345,11066.70817890638,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",2020,,Colombia,32968,1.23,118.6765,27779.720500688847,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",2021,,Colombia,90352,4.7,124.2543,72715.39093616881,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",2022,,Colombia,77328,8.0,134.1947,57623.736257840275,Ore / Raw
+2525,"Mica, Including Splittings; Mica Waste",2023,,Colombia,32311,4.12,139.7235,23124.957505358798,Ore / Raw
+2616,Precious Metal Ores And Concentrates,2025,,Chile,2794,2.8,147.8012,1890.3770740697641,Ore / Raw
+2616,Precious Metal Ores And Concentrates,2023,,Colombia,442041,4.12,139.7235,316368.39901662926,Ore / Raw
+2616,Precious Metal Ores And Concentrates,2017,,Ecuador,64493,2.13,112.4076,57374.23448236595,Ore / Raw
+2822,Cobalt Oxide & Hydroxide; Commercial Cobalt Oxides,2018,,Brazil,376380,2.44,115.1503,326859.7650201519,Compound
+2822,Cobalt Oxide & Hydroxide; Commercial Cobalt Oxides,2021,,Brazil,1344990,4.7,124.2543,1082449.4605015682,Compound
+2822,Cobalt Oxide & Hydroxide; Commercial Cobalt Oxides,2022,,Brazil,157200,8.0,134.1947,117143.22547760828,Compound
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2015,,Argentina,19740,0.12,108.6937,18161.12617382608,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2025,,Argentina,61501,2.8,147.8012,41610.622917811226,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2015,,Bolivia,12516044,0.12,108.6937,11514967.288812507,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2016,,Bolivia,5652240,1.26,110.0632,5135449.4508609595,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2017,,Bolivia,8626280,2.13,112.4076,7674107.444692352,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2018,,Bolivia,9242482,2.44,115.1503,8026450.647544992,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2019,,Bolivia,6903479,1.81,117.2345,5888607.0226767715,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2020,,Bolivia,4678302,1.23,118.6765,3942062.666155473,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2021,,Bolivia,7544202,4.7,124.2543,6071582.230956997,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2022,,Bolivia,13199018,8.0,134.1947,9835722.27517182,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2023,,Bolivia,11392397,4.12,139.7235,8153529.649629447,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2024,,Bolivia,16954078,2.9,143.7755,11792049.410365466,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2025,,Bolivia,62220208,2.8,147.8012,42097227.89801436,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2015,,Brazil,30914877,0.12,108.6937,28442197.661870006,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2016,,Brazil,27689284,1.26,110.0632,25157622.16617362,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2017,,Brazil,36461092,2.13,112.4076,32436500.73482576,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2018,,Brazil,129471779,2.44,115.1503,112437205.11366448,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2019,,Brazil,89526235,1.81,117.2345,76365093.04001808,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2020,,Brazil,35625656,1.23,118.6765,30019132.684229814,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2021,,Brazil,48643154,4.7,124.2543,39148064.89594324,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2022,,Brazil,63064148,8.0,134.1947,46994514.686496556,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2023,,Brazil,76423775,4.12,139.7235,54696436.17573278,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2024,,Brazil,65582017,2.9,143.7755,45614181.1365636,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2025,,Brazil,40897462,2.8,147.8012,27670588.601445727,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2015,,Chile,19242435,0.12,108.6937,17703358.152312417,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2016,,Chile,34219391,1.26,110.0632,31090674.26714833,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2017,,Chile,35086195,2.13,112.4076,31213365.466391955,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2018,,Chile,59530055,2.44,115.1503,51697698.57308231,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2019,,Chile,51726774,1.81,117.2345,44122484.422247715,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2020,,Chile,48627378,1.23,118.6765,40974732.15000442,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2021,,Chile,86488578,4.7,124.2543,69606104.57746734,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2022,,Chile,117169573,8.0,134.1947,87313115.19754505,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2023,,Chile,216151619,4.12,139.7235,154699545.17314553,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2024,,Chile,125944339,2.9,143.7755,87597914.10914934,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2025,,Chile,67688339,2.8,147.8012,45796880.53953554,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2015,,Peru,806970,0.12,108.6937,742425.733966182,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2016,,Peru,584936,1.26,110.0632,531454.6551435903,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2017,,Peru,661100,2.13,112.4076,588127.4931588256,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2018,,Peru,874998,2.44,115.1503,759874.702888312,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2019,,Peru,814309,1.81,117.2345,694598.4330551161,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2020,,Peru,368898,1.23,118.6765,310843.3430375854,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2021,,Peru,562178,4.7,124.2543,452441.4849224534,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2022,,Peru,1098230,8.0,134.1947,818385.5249126827,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2023,,Peru,797894,4.12,139.7235,571052.1136387222,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2024,,Peru,537045,2.9,143.7755,373530.2607189681,Unknown
+2825,"Hydrazine Etc, Oth Inorg Bases; Metal Oxides Etc",2025,,Peru,3158285,2.8,147.8012,2136846.656184118,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2015,,Argentina,2435,0.12,108.6937,2240.2402347146153,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2016,,Argentina,134273,1.26,110.0632,121996.27123325509,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2016,,Brazil,10332,1.26,110.0632,9387.333822749111,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2017,,Brazil,99400,2.13,112.4076,88428.18457114999,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2018,,Brazil,279000,2.44,115.1503,242292.03050274294,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2019,,Brazil,2084,1.81,117.2345,1777.63371703722,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2020,,Brazil,335888,1.23,118.6765,283028.2322110948,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2021,,Brazil,975121,4.7,124.2543,784778.4744672821,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2022,,Brazil,1401143,8.0,134.1947,1044112.025288629,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2023,,Brazil,1916963,4.12,139.7235,1371968.924339857,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2024,,Brazil,1665165,2.9,143.7755,1158170.2028509725,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2025,,Brazil,488287,2.8,147.8012,330367.4124432007,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2015,,Chile,5567174,0.12,108.6937,5121892.069181562,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2016,,Chile,13447613,1.26,110.0632,12218082.883288875,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2017,,Chile,17786916,2.13,112.4076,15823588.440639243,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2018,,Chile,15141104,2.44,115.1503,13148992.23015485,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2019,,Chile,19422996,1.81,117.2345,16567645.189769223,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2020,,Chile,3333606,1.23,118.6765,2808985.772246401,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2021,,Chile,23215330,4.7,124.2543,18683723.62163724,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2022,,Chile,23209753,8.0,134.1947,17295580.973019052,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2023,,Chile,41580163,4.12,139.7235,29758890.23678909,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2024,,Chile,31047788,2.9,143.7755,21594630.51771686,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2025,,Chile,19251043,2.8,147.8012,13024957.17220158,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2015,,Colombia,126470,0.12,108.6937,116354.48972663548,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2016,,Colombia,72336,1.26,110.0632,65722.23958598333,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2017,,Colombia,80498,2.13,112.4076,71612.59558962205,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2018,,Colombia,97964,2.44,115.1503,85074.89776405272,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2019,,Colombia,108439,1.81,117.2345,92497.51566305141,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2020,,Colombia,92595,1.23,118.6765,78023.02899057523,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2021,,Colombia,108892,4.7,124.2543,87636.40373009224,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2022,,Colombia,189169,8.0,134.1947,140966.07392095216,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2023,,Colombia,90935,4.12,139.7235,65082.108593042685,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2024,,Colombia,76195,2.9,143.7755,52995.81639430919,Unknown
+2841,Salts Of Oxometallic Or Peroxometallic Acids,2025,,Colombia,50810,2.8,147.8012,34377.25810074614,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2015,,Argentina,109773165,0.12,108.6937,100993125.63653643,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2016,,Argentina,84205662,1.26,110.0632,76506645.27289775,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2017,,Argentina,103585055,2.13,112.4076,92151291.37175778,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2018,,Argentina,153030143,2.44,115.1503,132896000.27095023,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2019,,Argentina,134665304,1.81,117.2345,114868322.89129908,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2020,,Argentina,93565194,1.23,118.6765,78840540.4608326,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2021,,Argentina,8039317,4.7,124.2543,6470051.338263545,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2022,,Argentina,12964245,8.0,134.1947,9660772.742887758,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2023,,Argentina,26208646,4.12,139.7235,18757507.505895574,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2024,,Argentina,28243886,2.9,143.7755,19644435.943536974,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2025,,Argentina,40330466,2.8,147.8012,27286967.900125302,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2015,,Bolivia,85857936,0.12,108.6937,78990719.79332748,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2016,,Bolivia,92661982,1.26,110.0632,84189794.59074424,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2017,,Bolivia,72507189,2.13,112.4076,64503813.79906697,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2018,,Bolivia,78029704,2.44,115.1503,67763352.76590683,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2019,,Bolivia,89881497,1.81,117.2345,76668128.40929931,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2020,,Bolivia,37681487,1.23,118.6765,31751430.990971252,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2021,,Bolivia,12764287,4.7,124.2543,10272712.493652131,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2022,,Bolivia,4948964,8.0,134.1947,3687898.2552962224,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2023,,Bolivia,14398363,4.12,139.7235,10304897.17191453,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2024,,Bolivia,1312962,2.9,143.7755,913202.875316031,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2025,,Bolivia,220414,2.8,147.8012,149128.69448962525,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2015,,Brazil,1376018,0.12,108.6937,1265959.2966289674,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2016,,Brazil,1331944,1.26,110.0632,1210162.8882314889,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2017,,Brazil,1389064,2.13,112.4076,1235738.5087841037,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2018,,Brazil,755231,2.44,115.1503,655865.4211061543,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2019,,Brazil,1366062,1.81,117.2345,1165238.9015178978,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2020,,Brazil,1184373,1.23,118.6765,997984.4366829153,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2021,,Brazil,1937679,4.7,124.2543,1559446.2324442696,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2022,,Brazil,979061,8.0,134.1947,729582.4648812509,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2023,,Brazil,1499556,4.12,139.7235,1073231.0599147603,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2024,,Brazil,1293840,2.9,143.7755,899902.9737333553,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2025,,Brazil,2891765,2.8,147.8012,1956523.3570498752,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2016,,Chile,54513090,1.26,110.0632,49528897.94227317,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2017,,Chile,174339085,2.13,112.4076,155095460.62721738,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2018,,Chile,173726179,2.44,115.1503,150869063.3024838,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2019,,Chile,136032842,1.81,117.2345,116034820.80786799,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2020,,Chile,158051532,1.23,118.6765,133178457.40310845,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2021,,Chile,224685115,4.7,124.2543,180826832.55227384,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2022,,Chile,204986482,8.0,134.1947,152753038.68185553,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2023,,Chile,185197486,4.12,139.7235,132545696.32166387,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2024,,Chile,249501234,2.9,143.7755,173535292.17425779,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2025,,Chile,213030176,2.8,147.8012,144132913.670525,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2015,,Colombia,1668908,0.12,108.6937,1535422.936195934,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2016,,Colombia,3131741,1.26,110.0632,2845402.4596777125,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2017,,Colombia,1097501,2.13,112.4076,976358.3601108821,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2018,,Colombia,1348055,2.44,115.1503,1170691.6959834234,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2019,,Colombia,82369,1.81,117.2345,70260.03437554644,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2020,,Colombia,1186275,1.23,118.6765,999587.1128656474,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2021,,Colombia,8554451,4.7,124.2543,6884631.7592228195,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2022,,Colombia,9452022,8.0,134.1947,7043513.6410007235,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2023,,Colombia,6179377,4.12,139.7235,4422575.3005042095,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2024,,Colombia,16537831,2.9,143.7755,11502537.63680182,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2025,,Colombia,15169759,2.8,147.8012,10263623.705355573,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2015,,Ecuador,9338,0.12,108.6937,8591.114296412763,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2016,,Ecuador,71858,1.26,110.0632,65287.94365419142,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2017,,Ecuador,357923,2.13,112.4076,318415.30287987646,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2019,,Ecuador,15134,1.81,117.2345,12909.169229194478,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2020,,Ecuador,897881,1.23,118.6765,756578.5981217849,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2021,,Ecuador,487118,4.7,124.2543,392033.1127373459,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2022,,Ecuador,1462861,8.0,134.1947,1090103.4094491063,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2023,,Ecuador,2957,4.12,139.7235,2116.3225942665335,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2024,,Ecuador,398055,2.9,143.7755,276858.71375860285,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2025,,Ecuador,415500,2.8,147.8012,281120.85693485575,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2015,,Peru,185125954,0.12,108.6937,170318936.6081015,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2016,,Peru,332948170,1.26,110.0632,302506350.8965758,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2017,,Peru,243200923,2.13,112.4076,216356298.86235452,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2018,,Peru,190107960,2.44,115.1503,165095496.92879653,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2019,,Peru,42339339,1.81,117.2345,36115084.72335362,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2020,,Peru,63550814,1.23,118.6765,53549619.34334093,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2021,,Peru,39092793,4.7,124.2543,31461923.6517368,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2022,,Peru,35977892,8.0,134.1947,26810218.287309404,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2023,,Peru,45112894,4.12,139.7235,32287263.058826897,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2024,,Peru,64468515,2.9,143.7755,44839708.43432991,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2025,,Peru,66459972,2.8,147.8012,44965786.47534662,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2024,,Uruguay,232741,2.9,143.7755,161878.0668472723,Unknown
+7106,"Silver (incl Prec Plated), Unwr, Semimfr Or Powder",2016,,Venezuela,43301,1.26,110.0632,39341.941720756804,Unknown
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",2015,,Brazil,5782350,0.12,108.6937,5319857.544641501,Unknown
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",2016,,Brazil,423746,1.26,110.0632,385002.4349646385,Unknown
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",2017,,Brazil,1836332,2.13,112.4076,1633636.8715282597,Unknown
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",2018,,Brazil,251798,2.44,115.1503,218668.99174383393,Unknown
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",2019,,Brazil,735644,1.81,117.2345,627497.8781843228,Unknown
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",2020,,Brazil,6446,1.23,118.6765,5431.5723837491,Unknown
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",2021,,Brazil,6656,4.7,124.2543,5356.756265175531,Unknown
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",2024,,Brazil,34138,2.9,143.7755,23743.96194066444,Unknown
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",2025,,Brazil,42445,2.8,147.8012,28717.628814921663,Unknown
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",2017,,Colombia,8253,2.13,112.4076,7342.030254182102,Unknown
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",2020,,Colombia,4829,1.23,118.6765,4069.0448403854175,Unknown
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",2021,,Colombia,13396,4.7,124.2543,10781.115824563012,Unknown
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",2023,,Colombia,15127,4.12,139.7235,10826.382104656697,Unknown
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",2024,,Colombia,37141,2.9,143.7755,25832.634906503547,Unknown
+8105,"Cobalt Mattes Etc, Cobalt & Art, Inc Waste & Scrap",2025,,Colombia,7254,2.8,147.8012,4907.943913851849,Unknown
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,2015,,Brazil,2350796,0.12,108.6937,2162771.163370094,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,2016,,Brazil,275952,1.26,110.0632,250721.4037026,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,2017,,Brazil,411706,2.13,112.4076,366261.7118415481,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,2018,,Brazil,2543726,2.44,115.1503,2209048.521801506,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,2019,,Brazil,4637411,1.81,117.2345,3955670.8989248043,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,2020,,Brazil,327632,1.23,118.6765,276071.50531065546,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,2021,,Brazil,135000,4.7,124.2543,108648.15141206382,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,2022,,Brazil,136549,8.0,134.1947,101754.39119428709,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,2023,,Brazil,242855,4.12,139.7235,173811.13413276937,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,2024,,Brazil,47408,2.9,143.7755,32973.6290258076,Ore / Raw
+2602,Manganese Ores A Concntrts Inc Ferr Mangn Iron Ore,2025,,Brazil,544350,2.8,147.8012,368298.76888685615,Ore / Raw
+2604,Nickel Ores And Concentrates,2015,,Brazil,8693,0.12,108.6937,7997.703638757352,Ore / Raw
+2604,Nickel Ores And Concentrates,2023,,Brazil,126293,4.12,139.7235,90387.80162249014,Ore / Raw
+2615,"Niobium, Tantalum, Vanadium & Zirconium Ore & Conc",2015,,Bolivia,4913,0.12,108.6937,4520.0411799395915,Ore / Raw
+2615,"Niobium, Tantalum, Vanadium & Zirconium Ore & Conc",2015,,Brazil,20167502,0.12,108.6937,18554435.077653993,Ore / Raw
+2615,"Niobium, Tantalum, Vanadium & Zirconium Ore & Conc",2016,,Brazil,26753696,1.26,110.0632,24307576.010873754,Ore / Raw
+2615,"Niobium, Tantalum, Vanadium & Zirconium Ore & Conc",2017,,Brazil,3867674,2.13,112.4076,3440758.454054708,Ore / Raw
+2615,"Niobium, Tantalum, Vanadium & Zirconium Ore & Conc",2019,,Brazil,26744,1.81,117.2345,22812.397374493004,Ore / Raw
+2615,"Niobium, Tantalum, Vanadium & Zirconium Ore & Conc",2022,,Colombia,11800,8.0,134.1947,8793.193769947695,Ore / Raw
+2615,"Niobium, Tantalum, Vanadium & Zirconium Ore & Conc",2018,,Venezuela,80000,2.44,115.1503,69474.41734845676,Ore / Raw
+2615,"Niobium, Tantalum, Vanadium & Zirconium Ore & Conc",2019,,Venezuela,1242276,1.81,117.2345,1059650.5294943042,Ore / Raw
+2820,Manganese Oxides,2019,,Bolivia,41742,1.81,117.2345,35605.559796817484,Unknown
+2820,Manganese Oxides,2015,,Brazil,663284,0.12,108.6937,610232.2397710263,Unknown
+2820,Manganese Oxides,2016,,Brazil,1708706,1.26,110.0632,1552477.1222352248,Unknown
+2820,Manganese Oxides,2017,,Brazil,1285589,2.13,112.4076,1143685.1244933617,Unknown
+2820,Manganese Oxides,2018,,Brazil,1960025,2.44,115.1503,1702144.935792612,Unknown
+2820,Manganese Oxides,2019,,Brazil,2923888,1.81,117.2345,2494050.8126873914,Unknown
+2820,Manganese Oxides,2020,,Brazil,2632829,1.23,118.6765,2218492.287858169,Unknown
+2820,Manganese Oxides,2021,,Brazil,2422909,4.7,124.2543,1949959.8806640897,Unknown
+2820,Manganese Oxides,2022,,Brazil,343724,8.0,134.1947,256138.28265944927,Unknown
+2820,Manganese Oxides,2023,,Brazil,1698104,4.12,139.7235,1215331.7086961032,Unknown
+2820,Manganese Oxides,2024,,Brazil,1014623,2.9,143.7755,705699.510695494,Unknown
+2820,Manganese Oxides,2025,,Brazil,853126,2.8,147.8012,577211.8223668007,Unknown
+2820,Manganese Oxides,2022,,Colombia,44063,8.0,134.1947,32835.126871627566,Unknown
+2820,Manganese Oxides,2023,,Colombia,2386375,4.12,139.7235,1707926.726713831,Unknown
+2820,Manganese Oxides,2024,,Colombia,10136650,2.9,143.7755,7050331.941116533,Unknown
+2820,Manganese Oxides,2025,,Colombia,14529110,2.8,147.8012,9830170.526355673,Unknown
+2820,Manganese Oxides,2018,,Peru,271018,2.44,115.1503,235360.22051180067,Unknown
+2820,Manganese Oxides,2019,,Peru,466314,1.81,117.2345,397761.7510203908,Unknown
+2824,Lead Oxides; Red Lead And Orange Lead,2015,,Brazil,176291,0.12,108.6937,162190.63294376765,Unknown
+2824,Lead Oxides; Red Lead And Orange Lead,2016,,Brazil,34342,1.26,110.0632,31202.072990790748,Unknown
+2824,Lead Oxides; Red Lead And Orange Lead,2022,,Brazil,348808,8.0,134.1947,259926.80783965383,Unknown
+2824,Lead Oxides; Red Lead And Orange Lead,2023,,Brazil,282396,4.12,139.7235,202110.59700050458,Unknown
+2824,Lead Oxides; Red Lead And Orange Lead,2024,,Brazil,296135,2.9,143.7755,205970.4191604272,Unknown
+2824,Lead Oxides; Red Lead And Orange Lead,2025,,Brazil,238969,2.8,147.8012,161682.71976140924,Unknown
+7501,"Nickle Mattes, Nickle Oxide Sinters, Oth Int Prod",2025,,Peru,4488,2.8,147.8012,3036.511205592377,Compound
+7502,"Nickle, Unwrought",2015,,Brazil,83172363,0.12,108.6937,76519948.25827073,Compound
+7502,"Nickle, Unwrought",2016,,Brazil,24741673,1.26,110.0632,22479514.49712529,Compound
+7502,"Nickle, Unwrought",2017,,Brazil,20014689,2.13,112.4076,17805458.883563034,Compound
+7502,"Nickle, Unwrought",2018,,Brazil,14087274,2.44,115.1503,12233814.414725797,Compound
+7502,"Nickle, Unwrought",2019,,Brazil,2053068,1.81,117.2345,1751248.9924041133,Compound
+7502,"Nickle, Unwrought",2021,,Brazil,14021150,4.7,124.2543,11284237.245713025,Compound
+7502,"Nickle, Unwrought",2022,,Brazil,4284849,8.0,134.1947,3193009.112878526,Compound
+7502,"Nickle, Unwrought",2023,,Brazil,25596790,4.12,139.7235,18319602.64379292,Compound
+7502,"Nickle, Unwrought",2024,,Brazil,28789,2.9,143.7755,20023.578426087894,Compound
+7502,"Nickle, Unwrought",2025,,Brazil,8623492,2.8,147.8012,5834520.964647107,Compound
+7502,"Nickle, Unwrought",2020,,Colombia,2253524,1.23,118.6765,1898879.7276630164,Compound
+7502,"Nickle, Unwrought",2022,,Colombia,796176,8.0,134.1947,593299.1392357522,Compound
+7502,"Nickle, Unwrought",2023,,Peru,609507,4.12,139.7235,436223.6846342956,Compound
+7502,"Nickle, Unwrought",2018,,Uruguay,4410,2.44,115.1503,3829.7772563336785,Compound
+8111,"Manganese And Artcles Thereof, Inc Waste And Scrap",2025,,Brazil,669184,2.8,147.8012,452759.5175140662,Unknown
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2015,,Argentina,307402,0.12,108.6937,282814.91935595166,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2021,,Argentina,2885,4.7,124.2543,2321.8512357318823,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2023,,Argentina,2177,4.12,139.7235,1558.0772024748878,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2015,,Brazil,39743564,0.12,108.6937,36564735.582651064,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2016,,Brazil,53634967,1.26,110.0632,48731062.6985223,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2017,,Brazil,53402888,2.13,112.4076,47508253.89030635,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2018,,Brazil,68371978,2.44,115.1503,59376291.681393795,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2019,,Brazil,61681913,1.81,117.2345,52614130.65266624,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2020,,Brazil,32781886,1.23,118.6765,27622895.85554006,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2021,,Brazil,40043684,4.7,124.2543,32227201.795028422,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2022,,Brazil,79508723,8.0,134.1947,59248780.31695737,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2023,,Brazil,88979291,4.12,139.7235,63682409.18671519,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2024,,Brazil,98531699,2.9,143.7755,68531633.69280581,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2025,,Brazil,65810716,2.8,147.8012,44526509.93361353,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2015,,Chile,55743904,0.12,108.6937,51285312.76421724,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2016,,Chile,52240578,1.26,110.0632,47464164.2256449,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2017,,Chile,57241927,2.13,112.4076,50923538.088171974,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2018,,Chile,55742577,2.44,115.1503,48408538.232206084,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2019,,Chile,50899822,1.81,117.2345,43417101.62110983,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2020,,Chile,28194340,1.23,118.6765,23757306.627681132,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2021,,Chile,25310826,4.7,124.2543,20370181.152684454,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2022,,Chile,8593082,8.0,134.1947,6403443.653139803,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2023,,Chile,35226290,4.12,139.7235,25211428.28514888,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2024,,Chile,18445606,2.9,143.7755,12829450.080159694,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2025,,Chile,52785671,2.8,147.8012,35713966.46305984,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2025,,Colombia,40100,2.8,147.8012,27131.038178309784,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2022,,Ecuador,55640,8.0,134.1947,41462.144183041506,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2019,,French Guiana,31551,1.81,117.2345,26912.726202611007,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2015,,Peru,800917,0.12,108.6937,736856.873949456,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2021,,Peru,478788,4.7,124.2543,385329.1193946608,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2022,,Peru,130968,8.0,134.1947,97595.50861546691,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2023,,Peru,48850,4.12,139.7235,34961.90690900242,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2024,,Peru,30419,2.9,143.7755,21157.290358927632,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2025,,Peru,32966,2.8,147.8012,22304.284403644895,Refined / Articles
+8112,"Beryllium,chromium,hafnium,rhenium Etc & Articles",2016,,Venezuela,6898,1.26,110.0632,6267.30823744903,Refined / Articles
+2608,Zinc Ores And Concentrates,2017,,Peru,14890085,2.13,112.4076,13246510.91207356,Ore / Raw
+2608,Zinc Ores And Concentrates,2020,,Peru,4354208,1.23,118.6765,3668972.3744802047,Ore / Raw
+2608,Zinc Ores And Concentrates,2021,,Peru,11290372,4.7,124.2543,9086504.048552042,Ore / Raw
+2608,Zinc Ores And Concentrates,2022,,Peru,8257768,8.0,134.1947,6153572.384006223,Ore / Raw
+2608,Zinc Ores And Concentrates,2023,,Peru,4275549,4.12,139.7235,3060007.0854222807,Ore / Raw
+2608,Zinc Ores And Concentrates,2024,,Peru,29060975,2.9,143.7755,20212744.86960574,Ore / Raw
+2608,Zinc Ores And Concentrates,2025,,Peru,26130827,2.8,147.8012,17679712.34333686,Ore / Raw
+2609,Tin Ores And Concentrates,2018,,Brazil,156000,2.44,115.1503,135475.11382949067,Ore / Raw
+2817,Zinc Oxide And Zinc Peroxide,2018,,Brazil,325187,2.44,115.1503,282402.21692865755,Unknown
+2817,Zinc Oxide And Zinc Peroxide,2020,,Brazil,28120,1.23,118.6765,23694.665751012202,Unknown
+2817,Zinc Oxide And Zinc Peroxide,2021,,Brazil,9065,4.7,124.2543,7295.522167039692,Unknown
+2817,Zinc Oxide And Zinc Peroxide,2022,,Brazil,49050,8.0,134.1947,36551.36901829953,Unknown
+2817,Zinc Oxide And Zinc Peroxide,2023,,Brazil,98400,4.12,139.7235,70424.80327217684,Unknown
+2817,Zinc Oxide And Zinc Peroxide,2024,,Brazil,35429,2.9,143.7755,24641.88961262524,Unknown
+2817,Zinc Oxide And Zinc Peroxide,2015,,Peru,3224232,0.12,108.6937,2966346.715587012,Unknown
+2817,Zinc Oxide And Zinc Peroxide,2016,,Peru,8824201,1.26,110.0632,8017394.551494051,Unknown
+2817,Zinc Oxide And Zinc Peroxide,2017,,Peru,2187879,2.13,112.4076,1946379.960073874,Unknown
+2817,Zinc Oxide And Zinc Peroxide,2018,,Peru,7143850,2.44,115.1503,6203935.20468466,Unknown
+2817,Zinc Oxide And Zinc Peroxide,2019,,Peru,7542019,1.81,117.2345,6433276.040755921,Unknown
+2817,Zinc Oxide And Zinc Peroxide,2020,,Peru,8644692,1.23,118.6765,7284249.198451251,Unknown
+2817,Zinc Oxide And Zinc Peroxide,2021,,Peru,14345267,4.7,124.2543,11545086.970833203,Unknown
+2817,Zinc Oxide And Zinc Peroxide,2022,,Peru,19944528,8.0,134.1947,14862381.30119893,Unknown
+2817,Zinc Oxide And Zinc Peroxide,2023,,Peru,17011506,4.12,139.7235,12175121.57940504,Unknown
+2817,Zinc Oxide And Zinc Peroxide,2024,,Peru,18083511,2.9,143.7755,12577602.58180288,Unknown
+2817,Zinc Oxide And Zinc Peroxide,2025,,Peru,15977378,2.8,147.8012,10810046.197189197,Unknown
+7901,"Zinc, Unwrought",2020,,Argentina,33220,1.23,118.6765,27992.06245549877,Compound
+7901,"Zinc, Unwrought",2024,,Argentina,143803,2.9,143.7755,100019.12704181172,Compound
+7901,"Zinc, Unwrought",2018,,Brazil,1577745,2.44,115.1503,1370161.4324930112,Compound
+7901,"Zinc, Unwrought",2019,,Brazil,28309776,1.81,117.2345,24147990.56591703,Compound
+7901,"Zinc, Unwrought",2020,,Brazil,46086294,1.23,118.6765,38833546.65835275,Compound
+7901,"Zinc, Unwrought",2021,,Brazil,1040315,4.7,124.2543,837246.6787869716,Compound
+7901,"Zinc, Unwrought",2023,,Brazil,90638272,4.12,139.7235,64869740.594817616,Compound
+7901,"Zinc, Unwrought",2024,,Brazil,74111596,2.9,143.7755,51546748.924538605,Compound
+7901,"Zinc, Unwrought",2025,,Brazil,878819,2.8,147.8012,594595.3077512225,Compound
+7901,"Zinc, Unwrought",2016,,Colombia,2878,1.26,110.0632,2614.8612797011174,Compound
+7901,"Zinc, Unwrought",2017,,Colombia,31897,2.13,112.4076,28376.19520388301,Compound
+7901,"Zinc, Unwrought",2019,,Colombia,3700,1.81,117.2345,3156.0675398453527,Compound
+7901,"Zinc, Unwrought",2025,,Colombia,248826,2.8,147.8012,168351.81311112494,Compound
+7901,"Zinc, Unwrought",2015,,Peru,66353097,0.12,108.6937,61045945.625183426,Compound
+7901,"Zinc, Unwrought",2016,,Peru,133062501,1.26,110.0632,120896449.49447227,Compound
+7901,"Zinc, Unwrought",2017,,Peru,156065710,2.13,112.4076,138839108.74353692,Compound
+7901,"Zinc, Unwrought",2018,,Peru,138679112,2.44,115.1503,120433131.30751723,Compound
+7901,"Zinc, Unwrought",2019,,Peru,153239577,1.81,117.2345,130712014.8079277,Compound
+7901,"Zinc, Unwrought",2020,,Peru,98806538,1.23,118.6765,83257037.408417,Compound
+7901,"Zinc, Unwrought",2021,,Peru,105982598,4.7,124.2543,85294913.73739178,Compound
+7901,"Zinc, Unwrought",2022,,Peru,184400867,8.0,134.1947,137412928.37943673,Compound
+7901,"Zinc, Unwrought",2023,,Peru,193612789,4.12,139.7235,138568522.11689517,Compound
+7901,"Zinc, Unwrought",2024,,Peru,185300178,2.9,143.7755,128881609.17541584,Compound
+7901,"Zinc, Unwrought",2025,,Peru,288093754,2.8,147.8012,194919766.55128646,Compound
+8001,"Tin, Unwrought",2015,,Bolivia,97033492,0.12,108.6937,89272415.97259086,Compound
+8001,"Tin, Unwrought",2016,,Bolivia,106525775,1.26,110.0632,96786005.67673847,Compound
+8001,"Tin, Unwrought",2017,,Bolivia,132839918,2.13,112.4076,118176989.81207676,Compound
+8001,"Tin, Unwrought",2018,,Bolivia,129650692,2.44,115.1503,112592578.56905279,Compound
+8001,"Tin, Unwrought",2019,,Bolivia,115119766,1.81,117.2345,98196150.45059262,Compound
+8001,"Tin, Unwrought",2020,,Bolivia,86802567,1.23,118.6765,73142169.67975968,Compound
+8001,"Tin, Unwrought",2021,,Bolivia,192413558,4.7,124.2543,154854647.28383645,Compound
+8001,"Tin, Unwrought",2022,,Bolivia,372514820,8.0,134.1947,277592796.13874465,Compound
+8001,"Tin, Unwrought",2023,,Bolivia,198732824,4.12,139.7235,142232927.17402583,Compound
+8001,"Tin, Unwrought",2024,,Bolivia,261859190,2.9,143.7755,182130606.39677832,Compound
+8001,"Tin, Unwrought",2025,,Bolivia,242570042,2.8,147.8012,164119128.93806005,Compound
+8001,"Tin, Unwrought",2015,,Brazil,49579221,0.12,108.6937,45613702.54209765,Compound
+8001,"Tin, Unwrought",2016,,Brazil,38049436,1.26,110.0632,34570534.02045371,Compound
+8001,"Tin, Unwrought",2017,,Brazil,36141322,2.13,112.4076,32152027.08713646,Compound
+8001,"Tin, Unwrought",2018,,Brazil,56924140,2.44,115.1503,49434643.24452476,Compound
+8001,"Tin, Unwrought",2019,,Brazil,58458444,1.81,117.2345,49864539.87520739,Compound
+8001,"Tin, Unwrought",2020,,Brazil,52958210,1.23,118.6765,44624007.280295596,Compound
+8001,"Tin, Unwrought",2021,,Brazil,105098385,4.7,124.2543,84583298.12328427,Compound
+8001,"Tin, Unwrought",2022,,Brazil,147892488,8.0,134.1947,110207398.65285291,Compound
+8001,"Tin, Unwrought",2023,,Brazil,75934251,4.12,139.7235,54346084.23064123,Compound
+8001,"Tin, Unwrought",2024,,Brazil,71661371,2.9,143.7755,49842546.88733477,Compound
+8001,"Tin, Unwrought",2025,,Brazil,43184778,2.8,147.8012,29218151.138150435,Compound
+8001,"Tin, Unwrought",2019,,Chile,1183652,1.81,117.2345,1009644.771803522,Compound
+8001,"Tin, Unwrought",2020,,Chile,777613,1.23,118.6765,655237.5575619435,Compound
+8001,"Tin, Unwrought",2021,,Chile,9599879,4.7,124.2543,7725993.386144383,Compound
+8001,"Tin, Unwrought",2022,,Chile,1718328,8.0,134.1947,1280473.819010736,Compound
+8001,"Tin, Unwrought",2023,,Chile,1221200,4.12,139.7235,874011.8877640483,Compound
+8001,"Tin, Unwrought",2024,,Chile,3869571,2.9,143.7755,2691398.0476506776,Compound
+8001,"Tin, Unwrought",2025,,Chile,980831,2.8,147.8012,663615.0450740589,Compound
+8001,"Tin, Unwrought",2020,,Colombia,2105,1.23,118.6765,1773.72942410671,Compound
+8001,"Tin, Unwrought",2015,,Peru,121146930,0.12,108.6937,111457177.37090558,Compound
+8001,"Tin, Unwrought",2016,,Peru,120749875,1.26,110.0632,109709580.49556983,Compound
+8001,"Tin, Unwrought",2017,,Peru,157825286,2.13,112.4076,140404461.97588065,Compound
+8001,"Tin, Unwrought",2018,,Peru,139750294,2.44,115.1503,121363378.12406914,Compound
+8001,"Tin, Unwrought",2019,,Peru,154673249,1.81,117.2345,131934924.44630207,Compound
+8001,"Tin, Unwrought",2020,,Peru,157436909,1.23,118.6765,132660559.58846107,Compound
+8001,"Tin, Unwrought",2021,,Peru,354309648,4.7,124.2543,285148802.09377056,Compound
+8001,"Tin, Unwrought",2022,,Peru,320797055,8.0,134.1947,239053446.22403118,Compound
+8001,"Tin, Unwrought",2023,,Peru,255520664,4.12,139.7235,182875939.9814634,Compound
+8001,"Tin, Unwrought",2024,,Peru,282171396,2.9,143.7755,196258330.5222378,Compound
+8001,"Tin, Unwrought",2025,,Peru,459935727,2.8,147.8012,311185380.7682211,Compound
+8002,Tin Waste And Scrap,2018,,Brazil,90193,2.44,115.1503,78326.326548867,Compound
+8002,Tin Waste And Scrap,2024,,Ecuador,37036,2.9,143.7755,25759.604383222457,Compound
+8002,Tin Waste And Scrap,2018,,Peru,385405,2.44,115.1503,334697.3477272747,Compound
