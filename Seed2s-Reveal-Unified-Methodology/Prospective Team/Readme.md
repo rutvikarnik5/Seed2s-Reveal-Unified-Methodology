@@ -1,21 +1,33 @@
-# reveal-australia-minerals
-U.S.–Australia Critical Mineral Supply Chain Analysis - Reveal Global Consulting
+# Reproducibility of Unified Methodology in Latin America America
 
-# U.S.–Australia Critical Mineral Supply Chain Analysis
+
+# U.S.Latin America Critical Mineral Supply Chain Analysis
 **Reveal Global Consulting**  
 **Analysts:** Ohm Patel, Michelle Thomas, Edwin Zheng
 
 ---
 
 ## Project Overview
-This project analyzes U.S. dependence on Australian critical mineral 
-exports using trade data from the U.S. Census Bureau USA Trade Online 
-(DataWeb) platform. The dataset covers 14 HS-4 commodity codes across 
-10 mineral categories, spanning 2015–2025. The objective is to uncover 
-supply chain insights that can inform U.S. economic security and 
-policy decisions.
+This project aims to test the reproducibility of a unified methodology by analyzing US critical mineral imports from Latin America, specifically the subregion of South America. This analysis is done using trade data from the U.S. Census Bureau USA Trade Online(DataWeb) platform. The analysis focuses on 12 countries within the subregion of South America and covers data spanning from 2010 - 2025. The objective is to uncover supply chain insights that can inform U.S. economic security and policy decisions.
 
 ---
+
+
+## Definition of region
+
+---
+
+## Why Latin America?
+
+
+---
+
+
+## Methodology
+
+# Data Sources
+
+# Data prep
 
 ## Why Australia?
 Australia is one of the world's most important exporters of strategic 
