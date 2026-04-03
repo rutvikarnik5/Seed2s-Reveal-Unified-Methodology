@@ -89,6 +89,19 @@ This adjustment accounts for inflation and allows for meaningful time-series ana
 
 ## Repository Structure
 
+.
+├── data/
+│ ├── raw/
+│ │ ├── Copper & Graphite.csv
+│ │ ├── Lithium, Cobalt, Sliver.csv
+│ │ ├── Nickel, Manganese, Niobium.csv
+│ │ └── Tin, Zinc.csv
+│ │
+│ └── processed/
+│ └── south_america_cleaned.csv
+
+├── main.ipynb
+├── README.md
 
 ---
 
