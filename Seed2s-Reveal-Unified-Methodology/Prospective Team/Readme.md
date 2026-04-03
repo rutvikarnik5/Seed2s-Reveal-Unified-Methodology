@@ -35,9 +35,55 @@ The diversity of economic structures, resource endowments, and trade patterns ac
 
 ## Data Sources
 
+Data for this analysis was obtained from U.S. Census Bureau's USA Trade Online database. 
+URL: https://usatrade.census.gov/
+
+Each record contains:
+HS Code: Harmonized System commodity classification code
+Commodity Description: Detailed product description
+Country: Country of origin
+Year/Month: Temporal dimension
+Customs Value: Import value in U.S. dollars
+
+## Data Limitations
+
 ## Data Preprocessing
 
-## Analysis Approach
+### Data Formatting
+- Multiple CSV files containing different critical minerals (e.g., copper, lithium, nickel, tin) were combined into a single dataset  
+- Key variables were extracted and standardized, including:
+  - HS Code (4-digit)
+  - Commodity Name
+  - Year
+  - Country
+  - Nominal Trade Value (USD)
+- - The dataset is annual, therefore, a `Month` column was included but set to null for all entries  
+
+
+### Data Cleaning
+- Aggregate regional entries (e.g., “South America”, “South/Central America”) were removed to avoid double counting  
+- Data was filtered to include only South American countries  
+- Nominal values were cleaned by removing formatting (e.g., commas) and converted to numeric types  
+- Columns such as Year, Value, and CPI were explicitly cast to numeric formats  
+- Missing values were identified and documented  
+- Duplicate rows were removed, and unique combinations of HS Code, Country, and Year were verified  
+
+
+### Inflation Adjustment
+To enable consistent comparisons over time, nominal trade values were converted to real values:
+- Base Year: 2010 (CPI = 100)  
+- Annual CPI values were calculated using U.S. inflation rates  
+- Real values were computed using the formula:  
+  **Real Value = (Nominal Value / CPI) × 100**
+
+This adjustment accounts for inflation and allows for meaningful time-series analysis.
+
+
+### Data Validation
+- Negative or invalid values were checked across key variables  
+- Duplicate time entries for each (HS Code, Country) pair were identified and resolved  
+- Outliers were detected using the interquartile range (IQR) method  
+  - Outliers were not removed but flagged for interpretation during analysis 
 
 ---
 
