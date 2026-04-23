@@ -1,0 +1,27 @@
+{
+    "customFileOrder.rules": {
+        "/Users/Rutvi/Documents/Seed2s-Reveal-Unified-Methodology": {
+            "order": [
+                "README.md",
+                "Retrospective Team",
+                "Seed2s-Reveal-Unified-Methodology",
+                ".gitignore",
+                ".vscode"
+            ],
+            "type": "manual"
+        },
+        "/Users/Rutvi/Documents/Seed2s-Reveal-Unified-Methodology/Retrospective Team": {
+            "order": [
+                "README.md",
+                "main.ipynb",
+                "EDA.ipynb",
+                "retrospective_data_cleaned.csv",
+                "retrospective_raw_data.csv",
+                "inflation_rates.csv",
+                "Ken_temp.ipynb",
+                "notebooks_Pranjal-EDA.ipynb"
+            ],
+            "type": "manual"
+        }
+    }
+}
