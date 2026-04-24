@@ -89,6 +89,6 @@ Both teams found similar key indicators: import concentration, refined material 
 ## Repository Structure
 ```
 └── 📁Retrospective Team                    # Retrospective Team
-└── 📁Seed2s-Reveal-Unified-Methodology     # Prospective Team
+└── 📁Prospective Team                      # Prospective Team
 └── README.md                               # This file - information about the project
 ```
