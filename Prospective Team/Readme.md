@@ -108,5 +108,8 @@ This adjustment accounts for inflation and allows for meaningful time-series ana
 ---
 
 # Results/ Findings
-
-
+* 3 countries (Chile, Peru, Brazil) supply 93.8% of all U.S. critical mineral imports from South America. Simultaneous disruptions in any one country could severely impact U.S. supply chains
+Limited fallback options among remaining 9 South American countries (<7% combined).
+* Refined copper alone accounts for 71.6% of total real import value ($51.6B over 2010–2025). Over 74% of imports arrive as refined/processed materials, meaning the U.S. depends on foreign processing capacity. Disruptions to copper supply or refining would have outsized national security consequences.
+* Real import value grew 158% from 2020 ($3.1B) to 2025 ($7.9B) — a 15-year high. Growth driven by clean energy and EV expansion, making South American minerals increasingly critical. Demand trajectory suggests supply concentration risk will intensify, not diminish.
+* Nominal values overstate real import growth by up to 48% in 2025 ($11.6B nominal vs. $7.9B real). Without inflation adjustment, policymakers may overestimate trade stability and underestimate vulnerability. Harmonized methodologies CPI adjustment is essential for accurate, reproducible supply chain analysis.

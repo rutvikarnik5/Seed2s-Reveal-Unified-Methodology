@@ -9,6 +9,14 @@ Authors: Rutvi Karnik, Ohm Patel, Pranjal Patel, Michelle Thomas, Ken Wang, Edwi
 This project builds upon two previously established methodologies that examined U.S. critical mineral import patterns from Canada and East and Southeast Asia to assess trade relationships. Our goal was to develop a robust and reproducible unified methodology. To test its reproducibility for any world region, a Retrospective Team applied it to familiar data (Southeast Asia) and a Prospective Team applied it to unseen data (South America), comparing the results. This README is for summarizing our project, and further work by the Retrospective Team and Prospective Team can be found by navigating to their appropriate folders.
 
 ## Key Findings
+* Thailand, Vietnam, and Indonesia account for 81.4% of U.S. critical mineral imports from Southeast Asia. This concentration increases strategic vulnerability, as disruptions in any of these suppliers could threaten supply chain stability.
+* Refined materials and manufactured articles account for 70.3% of total real import value from Southeast Asia. This indicates strong reliance on processed industrial inputs, increasing exposure to external production disruptions and trade shocks.
+* The largest import commodity from Southeast Asia (aluminum) accounts for 17.8% of total real import value. This concentration increases vulnerability to price volatility, export restrictions, and supply disruptions in a single commodity market.
+* 3 countries (Chile, Peru, Brazil) supply 93.8% of all U.S. critical mineral imports from South America. Simultaneous disruptions in any one country could severely impact U.S. supply chains
+Limited fallback options among remaining 9 South American countries (<7% combined).
+* Refined copper alone accounts for 71.6% of total real import value ($51.6B over 2010–2025). Over 74% of imports arrive as refined/processed materials, meaning the U.S. depends on foreign processing capacity. Disruptions to copper supply or refining would have outsized national security consequences.
+* Real import value grew 158% from 2020 ($3.1B) to 2025 ($7.9B) — a 15-year high. Growth driven by clean energy and EV expansion, making South American minerals increasingly critical. Demand trajectory suggests supply concentration risk will intensify, not diminish.
+* Nominal values overstate real import growth by up to 48% in 2025 ($11.6B nominal vs. $7.9B real). Without inflation adjustment, policymakers may overestimate trade stability and underestimate vulnerability. Harmonized methodologies CPI adjustment is essential for accurate, reproducible supply chain analysis.
 
 ## Unified Methodology
 After assessing the strengths and weaknesses of the two separate methodologies utilized by the previous Fall 2025 cohort, our team established a unified methodology framework. The goal was to make it robust and reproducible, easily applied to any world region for gathering trade and national security insights.
@@ -72,6 +80,11 @@ For a full list, please consult our manuscript.
 In order to test the methodology’s usefulness, a Retrospective and Prospective team were formed. The Retrospective team’s purpose was to apply the methodology to a familiar world region. They picked Southeast Asia as their region. On the other hand, the Prospective team applied the methodology to a new region with unseen data. They picked South America, a subregion under Latin America and the Caribbean.
 
 Once both teams had applied the methodology to their separate regions, they reconvened to discuss their results and evaluate the reproducibility of the unified methodology.
+
+Both teams found similar key indicators: import concentration, refined material dependency, country level vulnerability. The methodology was successful because of three key parts:
+1) Universal HS Codes: allows the methodology to be similarly applied to any world region data.
+2) Standardized Pipeline: clear outlined steps for data preprocessing and analysis makes the methodology reusable.
+3) Cross Region consistency: no matter the region, the methodology is able to produce consistently formatted findings that directly connect to trade insights and national security.
 
 ## Repository Structure
 ```
