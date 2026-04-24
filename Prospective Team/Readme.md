@@ -46,6 +46,10 @@ Year/Month: Temporal dimension
 Customs Value: Import value in U.S. dollars
 
 ## Data Limitations
+-Manual multi-part CSV downloads were required due to USA Trade Online export size restrictions, reducing reproducibility and introducing potential for human error during merging
+-Analysis is limited to monetary values only, without physical quantity measures (tons/kilograms), price-driven changes cannot be separated from true volume shifts
+-Countries with low trade volumes have sporadic monthly data gaps recorded as zero, making trend and seasonality analysis unreliable for smaller trade partners
+-CPI adjustment uses U.S. inflation rates only, not producer-country rates, and the dataset excludes exporting country production capacity, limiting full assessment of supply-side risk
 
 ## Data Preprocessing
 
